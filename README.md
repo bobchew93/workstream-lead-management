@@ -47,6 +47,22 @@ A HubSpot integration solution for managing job applicant data, demonstrating ma
 - Advanced filtering for specific requirements
 - Real-time candidate status tracking
 
+## Automation & Workflows
+
+### Candidate Prioritization Automation
+- Created automated workflow for experienced warehouse candidates
+- **Trigger Criteria**:
+  - Preferred Job: Warehouse
+  - Years of Experience: ≥ 2 years
+- **Automated Action**:
+  - Sets Candidate Priority to "High Priority"
+  - Currently affecting 30 qualified candidates
+
+### Implementation Highlights
+- Successfully handled property type limitations
+- Created strategic workaround with new priority property
+- Demonstrated problem-solving in MarTech implementation
+
 ## Results & Impact
 
 - Successfully synced 1,000 contacts to HubSpot CRM
