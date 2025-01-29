@@ -1,0 +1,1001 @@
+id,first_name,last_name,phone,preferred_job,availability,location,experience_years,last_contact,text_opt_in,application_status
+cdb18d58-c7a8-4c82-bff4-4d61954e2769,Sheila,Cross,001-310-224-8919x2458,Warehouse,Weekends,West Rachaelview,2,2025-01-17,True,Contacted
+d6ae1d33-163b-48c3-b05e-d5c2166fabd4,Sarah,Fischer,(462)800-0673x547,Restaurant,Morning,South Brianberg,3,2025-01-04,True,Hired
+fbbede10-5917-45f2-8909-d2a3a37a20be,Michele,Bishop,+1-947-644-1785x37422,Restaurant,Evening,Rowlandborough,5,2025-01-16,False,New
+2c258ffd-d544-4e71-a072-cdef34d8ce2c,Kenneth,Flores,001-846-455-6214x570,Healthcare,Morning,North Mark,2,2025-01-28,True,Interview
+1d288cce-c172-40bb-8359-11e61dbbc958,Isabel,Foster,(825)798-2115x088,Healthcare,Flexible,West Madison,4,2025-01-27,False,Hired
+1e062d33-1e97-4a34-b374-cc40c7042b93,Jessica,Holmes,001-612-494-6921,Hospitality,Weekends,Carpenterberg,5,2025-01-11,True,Contacted
+981a4a77-e0d6-4760-b7c8-790ac67aa57a,Pedro,Mcdaniel,001-450-995-3930x9806,Restaurant,Flexible,Coreyborough,1,2025-01-28,False,Hired
+0c87fbd5-43f2-43ce-b08f-00314b76cab1,Wanda,Davis,001-437-696-7172x809,Restaurant,Morning,Kaylachester,3,2025-01-03,False,Interview
+a70fa144-cc2d-4fee-b151-e7a7b4febdbe,Jessica,Guzman,+1-351-713-7620x727,Restaurant,Flexible,West Elizabeth,5,2025-01-18,True,Interview
+0f637ce1-c4f3-40af-a44b-8a9f0f7c3e5c,Jessica,Bates,223-662-6893x83277,Hospitality,Flexible,East Shannon,1,2025-01-18,False,Hired
+5eaeb24f-b325-4c03-9d7d-6ee0ba2b0ade,Jesse,Lee,442.808.9821x5499,Healthcare,Morning,Gilbertmouth,3,2025-01-15,True,Interview
+895c746f-90c1-4e52-aba5-8f85b22de47c,Allison,Moore,+1-566-775-2213x21006,Retail,Weekends,South William,4,2025-01-08,False,New
+e8101006-e7ad-4b4e-8791-d6dbd43ac9e8,Frank,Brown,350-431-7001x3804,Healthcare,Morning,Hendrixtown,0,2025-01-09,False,Interview
+b01ed0b7-7fd1-4081-a829-81c9d260f693,Lauren,Friedman,+1-796-609-2781x523,Retail,Weekends,North Kathleenstad,3,2025-01-15,False,Contacted
+db52a107-0b9c-4205-b5db-25055d4a090f,Christian,Solis,8583095861,Warehouse,Flexible,West Deborahport,0,2025-01-22,True,Hired
+6a892fd3-5c9c-462e-bc61-b6936034af4b,Jimmy,Valdez,001-766-613-8786x90298,Warehouse,Flexible,Latashachester,3,2025-01-04,True,Hired
+c5138dd4-5bcf-485f-b023-025abd7972b2,Brian,Johnson,3795746620,Restaurant,Weekends,Lake Danielland,0,2025-01-28,False,New
+6b5e98d9-facd-48b0-af30-245fa71f892f,Kevin,Perkins,001-328-486-7725x120,Healthcare,Weekends,Michaelfurt,2,2025-01-23,True,Interview
+9985bf5c-9750-4846-b430-54f282d675b1,Matthew,Underwood,(976)277-6915x94436,Restaurant,Evening,Pruittville,2,2025-01-14,False,Hired
+3bb504fa-6100-4c43-bc0a-9e6ebe4cd625,Cynthia,Drake,2859443626,Healthcare,Evening,South Randy,0,2025-01-20,False,New
+a85c1f28-022a-4b0e-92a3-463f87e5c593,Justin,Sherman,230-665-3560x24055,Retail,Morning,Riosberg,2,2025-01-06,True,Hired
+1357b18f-e395-48ac-84ff-6c1640fec03a,John,Morales,4414904656,Warehouse,Evening,Ryanmouth,5,2025-01-09,True,Hired
+305f4b0d-5f29-4920-9951-13be5ad1da32,Julie,Sullivan,548-706-6887x6658,Retail,Evening,South Jessica,5,2025-01-22,False,New
+33cd30c0-16d7-4645-ab2f-43c65ed2fcb3,Douglas,Young,280.381.7907x69818,Warehouse,Morning,Sarahstad,2,2025-01-09,False,New
+ea747104-b334-4455-86ef-047d7adeb49b,Alexander,Pope,927.911.7376x1949,Retail,Weekends,Joshuafort,3,2025-01-06,True,Interview
+a8aa1501-042d-47de-bebf-6c8d4f4ee600,Diana,Brown,(294)514-1535x7792,Restaurant,Morning,Matthewbury,2,2025-01-07,False,Interview
+38627bb3-bc80-47a3-bc2e-8ef1a44b2e47,Latoya,Berger,001-638-901-3952,Restaurant,Flexible,Hendersonport,1,2025-01-20,False,New
+d68c044a-1fe5-414c-a772-f6e850fb4fb3,Andrew,Fisher,(935)348-9001x244,Hospitality,Night,East Kerri,0,2025-01-19,True,Contacted
+66c7bc2c-471f-4eb5-a40c-cd9a3a5dac3c,Alexandra,Bryan,+1-569-254-4666x834,Restaurant,Night,Port Caroline,4,2025-01-17,True,Contacted
+96eaa122-294e-43d2-8e47-beea3c0fa322,Mary,Smith,500.473.0603x3223,Restaurant,Evening,Lake Lauraburgh,2,2025-01-14,False,Interview
+644916fc-3705-4126-a28d-cc7bf0000950,Dawn,Zimmerman,+1-808-486-6617x40636,Warehouse,Evening,Cynthiabury,0,2025-01-21,True,New
+32905f40-355b-427d-b3fb-2f4de3ba0a34,Marcus,Reeves,(749)726-5465,Warehouse,Evening,Riverachester,3,2025-01-28,True,New
+baf964ed-eea7-4cb1-aecc-700e7292c5d8,Ryan,Sherman,462.393.0323x060,Warehouse,Flexible,East Heather,5,2025-01-02,False,Hired
+58a6c422-54d2-419b-b71c-7fecf0d0e095,Maria,Morrison,+1-857-650-9328x53333,Retail,Morning,North Patrickstad,5,2025-01-09,True,Interview
+a683debe-493e-4bee-a137-068ef326b2e1,Patricia,Montoya,250-236-3337,Restaurant,Night,Port Tracymouth,4,2025-01-12,True,Contacted
+db57283b-a1ca-4786-a814-e1dcd3971d15,John,Joyce,001-593-572-7876x628,Restaurant,Weekends,Susanland,2,2025-01-04,False,Contacted
+5fcb06c7-ab52-4f7c-9c5e-7d9febedbe08,Amy,Stone,+1-366-566-0137x118,Hospitality,Evening,Griffithchester,4,2025-01-29,True,Hired
+be3f03d9-60c0-435c-8487-0d8495f91e10,Melinda,White,(662)214-5959x693,Retail,Evening,Olsenville,4,2025-01-10,True,Interview
+fe91fd1e-fe76-4469-9ba8-f22928209dd9,James,Butler,327.877.0385,Restaurant,Weekends,Andradeborough,3,2025-01-10,False,New
+99d2b0df-fdfd-4cf1-a2ff-c192766967ae,Jose,Rodriguez,+1-796-464-6370x3990,Healthcare,Night,Seanchester,2,2025-01-09,False,New
+f52a003c-7201-476d-ade0-1d5e695cf271,Kevin,Dunn,7388966223,Restaurant,Flexible,Nancybury,0,2025-01-20,True,Contacted
+5684f8d4-974d-4918-a560-e6b25a017209,Rebekah,Fischer,(745)702-7459x5189,Warehouse,Night,East Nicole,4,2025-01-01,True,New
+fd0b46ad-7090-4414-84f9-73b540a6b8e1,Sheila,Mosley,+1-992-742-1924,Hospitality,Morning,Brookeside,5,2025-01-20,True,Contacted
+91620789-fc6b-405d-a1d1-5ec3c3142bff,Rose,Atkinson,+1-923-236-7844x0714,Warehouse,Morning,West Brian,3,2025-01-19,False,New
+a017cd1f-b6c9-447f-a870-d6bf2ab9bba8,Derek,Oneill,502.229.7558x8350,Retail,Evening,Christopherchester,1,2025-01-24,True,Interview
+acdc60e7-0415-4c2d-98c5-cc5370ff8a52,Lawrence,Clark,+1-846-813-9753x0415,Warehouse,Night,East Kelseyberg,4,2025-01-05,False,Contacted
+b5daab5a-4045-4ee7-8cca-f7a012cbf2b6,Kenneth,Wise,001-716-762-8539x9729,Hospitality,Weekends,Jeantown,1,2025-01-12,True,New
+89abf8c9-cf44-4e50-b108-8e6c3030f080,Mario,Cummings,+1-859-798-2725x6372,Healthcare,Weekends,Port Edward,1,2025-01-16,True,Contacted
+0918c892-5fb4-4c01-8b46-03f332e5c4ae,Julie,Patterson,001-854-813-2048x3663,Retail,Night,West Susanburgh,0,2025-01-26,True,New
+2296ee39-a994-4d94-a7e2-212fc56ba655,Brian,Dunn,454-668-8653x27911,Healthcare,Morning,South Mitchellbury,4,2025-01-08,False,Contacted
+887896fa-9fc7-4762-a7a2-3dc2893262bd,Lisa,Garcia,+1-459-474-2464,Warehouse,Weekends,New Sarahburgh,2,2025-01-06,True,Contacted
+4f141cb3-f371-4f1e-be86-18cc15a7a328,Sheila,Shelton,969.453.0982,Restaurant,Flexible,Ballardshire,2,2025-01-25,False,Interview
+f06271a6-4be9-4381-b247-643077dbeb63,Jeffrey,Walker,531.359.1185,Hospitality,Evening,Port Bethfort,2,2025-01-25,True,Contacted
+d45f0fe5-131f-45d7-aab4-7fe26cc708dc,Paula,Decker,658.595.7951x2810,Healthcare,Evening,Kimberg,0,2025-01-10,False,Hired
+75c3ec04-1260-4b64-87df-b43068fdba26,Melissa,Miller,370.776.8170,Healthcare,Morning,Jensenfurt,5,2025-01-27,True,Hired
+5a6c68a8-a44e-44bf-a29b-b774ac4616a8,Justin,Davis,(794)994-4139x51111,Restaurant,Weekends,Tylerfurt,5,2025-01-10,False,Hired
+375d11e7-08a9-48c6-8fd2-5c9e726759a2,John,Mcmahon,+1-306-560-9860x5799,Retail,Night,Amyview,0,2025-01-20,False,Interview
+186d3cc0-27ed-46c1-81e8-fffc61ef3de2,Emily,Yang,(821)751-0033x1959,Restaurant,Evening,Port Henry,2,2025-01-05,True,Interview
+d4a8ecb2-7178-4032-9612-d52888037594,Peter,Spence,359-328-5389,Retail,Flexible,Johnhaven,5,2025-01-16,False,New
+7bd827bc-76f3-49a4-9249-4be6cad4b674,Jeffery,Gonzalez,(225)962-7225,Healthcare,Weekends,Sharonberg,2,2025-01-28,True,New
+ca3b76ac-38cc-40c5-b88c-cd26f5edabee,Stuart,Shepherd,(873)452-6328x2800,Restaurant,Weekends,Dayland,5,2025-01-21,True,Contacted
+23e48bee-5678-4afd-8e88-ddcaa79a8749,Justin,Thompson,213.577.0929,Restaurant,Morning,East Andreashire,0,2025-01-11,False,New
+f752d5b1-da65-4497-b8d0-5726864a589c,Cassandra,Villanueva,3364504699,Warehouse,Evening,West Kathleen,0,2025-01-16,True,New
+6c6a665f-6ee8-42cb-9958-783f7d7ac0a7,Brittney,Pierce,(376)215-0476,Healthcare,Weekends,Peterland,0,2025-01-25,False,Contacted
+a0126689-9e89-49b7-8618-1ee47dd9c379,Monica,Gutierrez,379-771-3414,Restaurant,Flexible,East Ashley,4,2025-01-14,True,Hired
+6e6858c9-b363-4633-98eb-2fbab4879c08,Diane,Allen,222.277.9342x687,Retail,Evening,Lake Frederick,2,2025-01-06,True,Hired
+3727e118-5a1e-4ddd-aa4f-7bae9c85255a,Matthew,Haynes,001-253-320-0063x2375,Healthcare,Evening,South Karenhaven,4,2025-01-29,False,New
+413f985d-b9ac-4d3c-ae77-3af2d565bc54,Amanda,Wall,(326)685-7519,Hospitality,Evening,Deckermouth,4,2025-01-02,False,Hired
+4ed889e4-f2ac-4c89-a404-5af4a5f024e0,Stephen,Hurst,430.239.1063,Healthcare,Flexible,Lake Miguel,5,2025-01-17,False,New
+708f52de-6a89-4c77-b192-a3f0f5a953fd,Kevin,Kelly,6899690096,Restaurant,Morning,Hayesbury,5,2025-01-08,False,Contacted
+cb0bbb37-fbce-4d0b-b736-168df7283e3c,Tracy,Russo,(227)904-7977x48504,Retail,Weekends,West Heatherton,5,2025-01-14,True,Interview
+5d7339f3-1f45-4562-95c7-ce8f3152d0a2,Megan,Ibarra,834-322-6860x0803,Hospitality,Flexible,North Stephenton,1,2025-01-15,True,Contacted
+552bdb47-9247-4f8a-8aa2-ace51f0b07b8,Gregg,Wilson,886.701.5118,Hospitality,Flexible,Port Morganview,4,2025-01-27,True,Contacted
+ada42be3-1aa8-449f-9c2f-979f63a3d09d,Christine,Lowery,482-674-6618,Restaurant,Night,New John,2,2025-01-29,False,New
+919ccc07-3263-4e90-853d-7321ce690500,Michael,Cordova,511-855-7911x75336,Restaurant,Evening,North Ambershire,3,2025-01-06,True,Hired
+eb924ff0-6d85-4157-a6ef-62e2b8903378,Eric,Freeman,(566)200-6848x838,Warehouse,Morning,Murphyport,0,2025-01-09,False,New
+e9b17e1c-f8d0-40ce-ab6a-d01bd4ff3c2c,Christopher,Ortiz,(791)450-5230,Warehouse,Weekends,New Douglas,5,2025-01-23,False,New
+0d61d980-7483-411c-a007-f1ce730c7d35,Kelly,Hartman,466.309.1298x7812,Retail,Weekends,Mitchellfort,5,2025-01-05,False,Interview
+15739264-bcd4-4adf-8957-ce2996491b92,Jeremy,Erickson,+1-497-823-5394x61923,Retail,Evening,Amandaton,4,2025-01-21,True,Contacted
+cfaf805f-0b78-4fd6-9ba4-80bb92bc8dba,Gina,Walker,479.698.1251,Healthcare,Flexible,South Christopher,1,2025-01-21,True,Interview
+190d8177-37e9-4afb-9391-628fa940c283,Jason,Porter,(878)516-5490x748,Healthcare,Flexible,Port Lisa,5,2025-01-12,False,Contacted
+27a6b31b-2d89-4afd-b2d8-a05dbbd0147b,Garrett,Graves,288.829.5045x9126,Restaurant,Flexible,Thomasville,0,2025-01-04,False,Interview
+dba9b1b7-9f91-4135-a25c-a5fd07d0e17a,Elizabeth,Gonzalez,366-351-9640x76537,Restaurant,Flexible,East Amandatown,2,2025-01-28,False,New
+3cce30ac-cbab-4ec7-963a-dc2b4efaa63d,Andrew,Padilla,001-996-957-8061,Restaurant,Flexible,Lake Jacob,4,2025-01-22,False,Hired
+0376b86d-f500-46d8-a0c6-728c10672a03,Kyle,Thomas,(811)255-4715x676,Hospitality,Weekends,Pottermouth,0,2025-01-22,False,Hired
+28ee5000-0ae4-46a3-9705-79742599ee8d,Brandon,Hudson,(318)907-3667x0247,Retail,Morning,Port Johnshire,0,2025-01-09,True,Interview
+58730531-fe90-4346-9aef-3fe1473eb376,Shawn,Cross,3337429608,Healthcare,Evening,Port Gabrielmouth,5,2025-01-21,True,Contacted
+3488de54-6a2d-46de-9540-240a59237874,Allison,Ramos,906.392.4436,Healthcare,Flexible,Lake Eric,2,2024-12-31,False,Hired
+a923eebc-c347-486e-beca-8054ef59136c,Nicole,Pacheco,963-203-0689x4230,Hospitality,Flexible,New Heather,1,2025-01-06,False,Hired
+6ec52574-84ca-4ec5-b5d4-15ea8d0260d6,Amber,Mooney,(454)475-7215x8280,Warehouse,Flexible,Michellemouth,3,2025-01-18,True,Contacted
+4a6a2319-ae58-45d3-8374-573357c9c398,Megan,Campbell,889.931.9980x31206,Restaurant,Morning,East Allisonfurt,1,2025-01-12,True,Interview
+f31be3f6-fbdf-475c-8a2d-ac941518a8e9,Jonathan,Hall,+1-800-864-5521x3207,Warehouse,Evening,Maddoxland,3,2025-01-11,True,Contacted
+c3221455-42c2-41b7-848c-4aa43b9f7fc8,Anthony,Travis,426.789.6403x76241,Retail,Morning,South Joseside,0,2025-01-16,True,Contacted
+3a9cd40c-9de2-4602-9c40-72771db97015,James,Jackson,672.587.1066x7874,Warehouse,Evening,Crosbyton,5,2025-01-22,False,Interview
+9090c4c7-f2d7-4310-8304-ebcd35305624,Thomas,Smith,+1-445-351-7813x6400,Restaurant,Flexible,South Paulshire,4,2025-01-15,True,Contacted
+480b1b88-68ca-49c8-8dbb-d5b55e0de239,Bailey,Clark,985-701-4148x872,Warehouse,Night,Roystad,3,2025-01-27,True,New
+1aef726a-b124-40cd-8a97-8b7b3518cd75,Jessica,Mayer,861-857-5335x7839,Hospitality,Flexible,Mariabury,5,2025-01-18,True,New
+8d68872c-c3d0-435f-bd6b-5cd86b44aed5,Johnny,Camacho,(321)954-7715x11114,Warehouse,Weekends,New Zoe,2,2025-01-06,False,Contacted
+97eb3c5a-164a-40c4-b837-9ab55225e42c,Rodney,Castro,001-469-903-2721x5213,Warehouse,Flexible,Mossville,5,2025-01-22,True,New
+353eb0b7-1bdf-484f-83e1-e288b97f3743,Andrew,Peters,(823)917-7402,Restaurant,Flexible,Lindseymouth,0,2025-01-08,False,New
+1ce40d21-f757-4822-bb02-4466c0422043,Teresa,Hunt,(721)362-9439x6757,Healthcare,Evening,New Matthew,4,2025-01-23,False,New
+5664d85e-f1b6-4d6e-b8cc-e59b7bb02f59,Gregory,Blake,577.769.5970x857,Retail,Weekends,Austinport,4,2025-01-10,True,Hired
+b26485c0-d33c-43cc-9233-16a95a5aefd8,Julian,Smith,001-760-240-2458x8060,Retail,Flexible,East Robin,1,2025-01-15,True,New
+cd214725-7fb4-4167-81d4-76f21f510897,Shannon,Ramirez,501-358-9515,Healthcare,Morning,Thomashaven,0,2025-01-22,False,Contacted
+52348e51-cdc8-4c4f-8329-c6a84bf26de5,Julie,Lewis,649-988-3592,Restaurant,Flexible,Baileyfurt,1,2025-01-19,True,Hired
+4afcbdf0-e26e-4b6b-985d-0385f260c436,Veronica,Murillo,606-598-8440x9943,Retail,Evening,New Jadehaven,2,2025-01-04,False,Contacted
+774158c5-129a-4854-98fd-a5fe64253045,Jacqueline,Livingston,(229)342-4952,Healthcare,Night,Alexanderberg,3,2025-01-12,False,Interview
+e6847bbc-2894-46ed-8791-c40e61298d18,Allison,Williams,694-369-0848x844,Retail,Morning,Port Robin,4,2025-01-16,False,Contacted
+27857968-f436-4659-9e20-d49176b5d453,Ricardo,Foster,356-655-9578,Hospitality,Flexible,Nicholasmouth,2,2025-01-13,False,Interview
+f848c302-5966-4c8b-a745-b4892a23ce23,John,Torres,+1-211-305-9249x194,Warehouse,Evening,Tanyaside,4,2025-01-05,False,Contacted
+f49918c3-0ccb-49d8-8a82-b942d6c5f813,Michael,Barnes,936-735-8815x033,Restaurant,Weekends,Melindatown,1,2025-01-10,False,Hired
+35d65106-f052-4def-82f0-2f8bcda76c2d,Russell,Miller,+1-776-883-6809x5231,Warehouse,Flexible,New Jamesview,4,2025-01-16,True,Hired
+59870579-8041-4a29-a7e5-ce3f30383726,Andrew,Foley,7233911486,Restaurant,Morning,South Susan,5,2025-01-06,False,Hired
+b49ae06e-22a0-41dd-b0d8-6c248298d9bd,Arthur,Perry,(377)886-7695x920,Hospitality,Flexible,Schaeferberg,0,2025-01-02,True,Interview
+11c06d4e-f06a-4c11-be43-c2e0deb80de9,Jason,Macias,7686486347,Retail,Evening,Jacquelineland,3,2025-01-02,True,Hired
+371d35a0-3628-4b56-a184-a94a3a3c6dbf,Leslie,Howard,(838)431-5907,Restaurant,Weekends,Lake Anthony,4,2025-01-12,True,Interview
+5f66b3b1-29c7-4a6d-bea8-fc3b160c6f8c,Olivia,Olson,414.919.9827,Warehouse,Evening,Lake Eric,3,2025-01-20,True,New
+1ec101bf-83ab-4f08-a766-7f0c2b484ef1,Gary,Levy,449-359-9972,Warehouse,Morning,New Aaron,0,2025-01-24,False,New
+ad73604b-508a-4d72-a5b2-d791d5750656,Richard,Marshall,+1-430-386-4870x781,Retail,Morning,Christineland,5,2025-01-09,False,Hired
+c153054d-3e65-46cb-9f6a-833c3df61932,Bob,Frederick,594-741-2601x76622,Hospitality,Night,West Karenchester,4,2025-01-06,False,New
+bd75cfa0-8d21-4582-ac9e-eab41986ab04,Deborah,Clark,(834)742-4254x732,Healthcare,Night,Port Ericfurt,1,2025-01-15,True,Hired
+ba725e15-bfd8-497b-bd3a-bd60c6b49c4e,Nicholas,Cantrell,629-688-3399,Hospitality,Evening,Davischester,2,2025-01-11,False,New
+4168ee9d-56a8-4887-9270-ba195bb7a223,David,Roberts,(441)968-2298,Retail,Night,Vanessachester,4,2025-01-09,False,New
+a7ee6f2c-74ef-4a8d-8689-87a210c268e9,Patricia,Garcia,(940)257-4939,Healthcare,Morning,South Samuel,1,2025-01-18,False,Hired
+94c480ed-7adc-409e-93c1-596e830d05bc,Dakota,Hunt,(627)281-6654x4184,Healthcare,Evening,East Marcchester,0,2025-01-01,True,Contacted
+b3def7d7-99fc-463c-a586-d02214058622,Sandra,Rodriguez,(898)570-9592x427,Warehouse,Morning,South Jonathanhaven,4,2025-01-03,True,Interview
+0f261c00-566f-4150-88bb-505bbc5d0c41,John,Spears,7236547121,Healthcare,Night,Sarahbury,1,2025-01-02,False,New
+57f556b7-3533-4bcf-8e15-9488a2f58427,James,Nelson,(286)282-9981x924,Healthcare,Evening,Moraleshaven,0,2025-01-08,True,New
+05fa4710-e732-4399-abf1-00f9cb958be7,Sheila,Sanchez,(596)665-7431x94627,Warehouse,Evening,East Amandafort,0,2025-01-13,True,Contacted
+b61c20e9-aee0-4a80-81c3-8e37be8dd4f6,Lisa,Dickerson,510-498-0111x015,Retail,Evening,Mannmouth,5,2025-01-26,False,Hired
+6d6a441a-3b22-4a1b-ba0d-2cc307adb70c,Lisa,Jordan,001-847-459-5748x7289,Hospitality,Weekends,Matthewport,4,2025-01-10,True,Hired
+b5b33f28-6fbb-4d94-bfdb-61a4df6c4875,Elizabeth,Pope,3406568769,Healthcare,Evening,Port Amyview,4,2025-01-13,False,New
+7dd54c19-d6e4-4c82-a6a5-db6af2b12e4a,Raymond,Crawford,001-483-368-3197,Warehouse,Morning,Jenniferhaven,5,2025-01-06,False,Hired
+422f0b38-5ee7-4e4b-957b-b2fe35e1ee90,Christine,Rogers,001-314-299-6659x153,Healthcare,Night,North Abigail,3,2025-01-13,False,Interview
+fd357d8c-9ae4-48c0-b123-1b68e8618aa7,David,Jones,001-930-307-0623x02706,Hospitality,Morning,North Vincent,3,2025-01-03,False,Hired
+6c792294-a0b4-425c-9945-45cc8241793c,Ashley,Lin,598-855-1828x8266,Hospitality,Evening,North Samanthaport,3,2025-01-15,True,Contacted
+100b3b04-7df1-4af6-95ee-f2f323a01905,Thomas,Stewart,001-366-522-3820x8603,Healthcare,Morning,Andrewsfort,2,2024-12-31,True,Interview
+f516baab-cf57-4a2f-bae6-5c75ac76ddf0,Tamara,Farmer,861.577.3308,Restaurant,Night,Lake Kimberlymouth,5,2025-01-11,True,Interview
+f2c9afc1-b8f0-4a35-8713-b7d538101dae,Joshua,Taylor,+1-695-729-9148x3115,Hospitality,Morning,Victorfort,4,2025-01-27,False,New
+5bf76961-0e8e-4cb2-b9fe-9b25011e0821,Paul,Keller,200-492-2516x67940,Retail,Flexible,North Danielport,1,2025-01-20,False,Contacted
+58e672ae-201c-4904-b24a-990421849814,Travis,Oliver,274.501.4737x31103,Warehouse,Flexible,South Alyssamouth,3,2024-12-31,True,Contacted
+eec08c4c-8752-4214-8a6f-68a3bf62744b,Vincent,Mccoy,388-449-7894,Healthcare,Night,Watsonport,0,2025-01-21,True,Interview
+df398245-adfb-458a-96a7-2d402d675e9c,Kimberly,Dalton,4098338780,Hospitality,Weekends,Port Kathleen,0,2025-01-26,True,Hired
+fcba8c29-9e1a-40ca-bf00-a1d8a5d00a61,Benjamin,Mcdowell,(802)706-3700,Hospitality,Weekends,Stonehaven,2,2025-01-05,True,Hired
+bc419042-ad33-4403-82ad-893be4a3dd88,Michael,Richmond,+1-380-845-0738x6192,Warehouse,Weekends,Dominguezfort,0,2025-01-14,True,Interview
+6c779b91-5d89-484f-a7c9-c1cdd78c132c,Janet,Peterson,721-570-9696x5463,Healthcare,Morning,Christopherland,1,2025-01-03,False,Hired
+f87d9253-e5bf-48d9-a60d-a82843b3fcaa,Richard,Phillips,001-666-686-8580x2955,Restaurant,Morning,Jenniferton,0,2025-01-25,False,Interview
+f2ba3274-d860-41f0-96e6-d3f629e19f67,Jeremy,Jackson,(334)912-0822,Hospitality,Flexible,Roweview,1,2025-01-02,False,New
+07e8bf38-f21e-431b-82aa-4938c037e305,Katherine,Cole,+1-744-616-6115,Restaurant,Flexible,South Dianatown,0,2025-01-13,False,Contacted
+8b9de236-3987-42d1-9bbe-10ff850b9872,Nicholas,Bell,001-729-260-2875x51337,Warehouse,Night,Port Williamton,3,2025-01-23,False,Hired
+4ba24c77-9b87-4bc7-8a1f-1fd7ee13967d,Julie,Pierce,294-816-7984x6940,Warehouse,Evening,Lake Sheena,3,2025-01-04,False,Contacted
+9b1bbaf3-45f5-48b4-9d05-d6cd1d996ad2,Michelle,Poole,+1-968-714-1082x89236,Warehouse,Night,Thomasberg,1,2025-01-16,True,Contacted
+44e4aceb-212f-420b-a2f6-8d32bf6538f6,Wendy,Nichols,805.478.1664x9187,Warehouse,Night,Yangfurt,5,2025-01-26,False,Contacted
+3d8a00d6-37af-4570-b336-3103ca34f728,Mark,Buck,001-527-820-2670x9084,Healthcare,Morning,East Brianport,4,2024-12-31,True,Hired
+f1badc2a-e29b-4f95-9b4b-fb3668db4121,Cynthia,Estrada,5693134554,Warehouse,Flexible,East Carlos,1,2025-01-02,False,New
+28f86ac6-969a-49c7-a06d-cf7cc29f2305,Rebecca,Davis,665-201-0843x5263,Warehouse,Flexible,East Johnshire,1,2025-01-20,True,Contacted
+37ae15f5-e0bf-47dd-bbd2-3aac6e5b2928,Mary,Anderson,213-768-2728,Retail,Weekends,New Becky,2,2025-01-04,False,Interview
+ddddf12f-e7e2-4dfb-9b8d-0fd368792fb4,Brittany,Stephens,001-242-600-1561x0445,Restaurant,Night,East Brandiport,1,2025-01-20,False,Interview
+2def3952-1c04-4600-837c-534fbcb55174,Kenneth,Valenzuela,+1-240-426-9128,Restaurant,Weekends,Danieltown,2,2025-01-09,True,Interview
+50c858c7-a78c-4ab6-96f0-6ddd3a013729,Manuel,Turner,311.520.6221,Restaurant,Evening,North Davidburgh,5,2025-01-28,True,Interview
+575d5ec0-3437-4e83-a4b8-a50ce54b3d7b,Stephen,Tanner,396-915-1827,Retail,Evening,East Teresabury,3,2025-01-19,True,Contacted
+317ff28f-025b-486c-8984-1d0717960ed5,Matthew,Moore,001-317-225-4550x4345,Restaurant,Weekends,Port Jenniferton,0,2025-01-16,True,New
+5517b53e-4086-46bb-a104-08236faf0d04,Chad,Mckee,001-915-768-1897x72641,Restaurant,Flexible,Blackmouth,4,2025-01-29,True,Hired
+28c8f025-4246-4fc8-8d13-54b744386ccf,Kayla,Fleming,589.604.9481,Retail,Morning,Baileystad,3,2025-01-24,False,Contacted
+62f67edf-cf19-4e4d-a330-4245f3e23f47,Dominic,Payne,432.306.7876x600,Restaurant,Morning,Lake Dana,1,2025-01-18,True,Contacted
+ad8af76e-411e-460a-b71a-fa9fc748bf51,Lisa,Simpson,(585)983-7346,Healthcare,Flexible,West Sharonfurt,3,2025-01-27,False,Interview
+a9f7ec3f-59d4-4304-8378-ee3c1534410a,Barbara,Pham,001-766-814-1422,Hospitality,Evening,South Wesley,4,2025-01-08,False,Hired
+8dd82f53-90f4-49e3-9a80-127e69486744,Courtney,Martinez,+1-977-597-7393,Retail,Morning,Port Kathybury,5,2025-01-10,True,Interview
+07e4e30b-32be-4cec-95a7-b3fb53061943,Jessica,Johnson,+1-465-578-4436x92796,Retail,Evening,Lake Danielle,5,2025-01-25,False,Interview
+4185e330-fac7-46a7-bf10-1e212681e302,Eileen,Lam,+1-659-509-0534x1736,Restaurant,Night,Lake Ronaldfort,3,2025-01-20,False,Contacted
+e0802d63-fba8-4096-850d-73687f60ad09,Paula,Garcia,527-513-3515x89034,Healthcare,Flexible,Cruzmouth,1,2025-01-19,True,Interview
+d0d39305-6a34-40a0-92dd-4ba92aa98287,Christina,Moore,(360)551-1906,Warehouse,Morning,West Michael,0,2025-01-27,True,New
+8885b95e-4129-4ee5-84e3-22b90039e357,Shannon,Johnson,448-516-8717x70597,Hospitality,Weekends,Dixonland,5,2025-01-10,True,Contacted
+0f8c4804-04a0-41fc-acab-1d2374feccae,Gina,Moore,+1-556-710-9742x18412,Healthcare,Weekends,West Jonathanland,0,2025-01-10,False,New
+944e8138-4631-4c1c-9461-c4829d09b31d,Dawn,Miller,+1-419-577-6300x695,Hospitality,Flexible,South Kenneth,5,2025-01-13,True,Contacted
+c87c91e2-29bc-4e47-a99d-385a6ecd391c,Erika,Richardson,915-527-6417,Warehouse,Weekends,Russellburgh,1,2025-01-26,False,Hired
+fd1c0656-3330-4a1a-a033-726bdf5bed6c,Tiffany,Harmon,001-787-508-1304x840,Retail,Night,Port Zachary,0,2025-01-04,True,Interview
+613bb537-a47b-40dc-944d-32858a7dc0fb,Aaron,Daugherty,(673)707-5469x7184,Warehouse,Flexible,West Evelyn,1,2025-01-05,False,Interview
+9c0aae83-53b8-49b3-98dc-6aef9f938a95,Renee,Ayala,7095774228,Restaurant,Flexible,New Catherinemouth,3,2025-01-14,False,Interview
+ebfd8a8d-7665-4cbd-a31e-351ff845beec,Terri,Andrews,489.457.1415,Healthcare,Evening,North Tylerstad,1,2025-01-14,True,Hired
+995fae66-ed7f-4efe-a629-1fc53e63c062,David,Vasquez,+1-755-402-6795x63742,Warehouse,Morning,Ramirezmouth,3,2025-01-28,False,New
+a18aa7ad-30a6-445e-a153-644391d9fa83,Stephen,Larsen,(242)430-5328x37956,Restaurant,Evening,North Christinafurt,5,2025-01-11,True,Contacted
+efdd4d69-31aa-4a65-8e8e-4bbd1c47f9af,Brian,Martinez,001-853-629-7116,Hospitality,Flexible,North Jon,4,2025-01-15,True,Contacted
+27f1ce18-d8e7-4309-918e-ad0cf5f28987,Amanda,Harrison,248-710-0571x0002,Restaurant,Night,Lake Kimburgh,2,2024-12-31,True,New
+96424a79-e3af-47ac-9a66-4aa7542e6ceb,Rebecca,Sullivan,(284)956-7859,Restaurant,Evening,Christopherside,0,2025-01-09,True,Contacted
+9c70f8e9-5bfa-438a-ac89-7c94e3dc7088,Brandon,Ramirez,+1-957-815-5228,Healthcare,Flexible,Josephhaven,2,2025-01-14,True,Contacted
+f349bbe9-a929-4c7f-96cb-fcc90ffc43f0,Dennis,Harrington,+1-409-548-2284x38929,Hospitality,Night,Kramermouth,3,2025-01-19,True,New
+5848074e-b606-480a-9180-2d4231d497e3,Jessica,Mcintyre,(744)907-1521x779,Healthcare,Flexible,Port Dianamouth,2,2025-01-08,True,New
+b6d8d71d-51de-45a2-ae59-0faa861c4a1f,Jake,Brown,(225)996-4279x21479,Warehouse,Night,New Loriview,0,2025-01-15,True,Hired
+3712a6c3-b0d2-45ca-847b-85e056ad1a8a,Jennifer,Osborn,763.514.4683x7319,Warehouse,Night,South Charlene,0,2025-01-04,True,Interview
+1ca4ef56-dd22-4c70-aa3c-c3a5bb211d00,Stephanie,Phillips,986.850.1561x7471,Restaurant,Night,Williamston,1,2025-01-14,True,Hired
+81235776-c577-4dc0-b27d-9394e28096c8,Benjamin,Davis,(545)384-4573,Restaurant,Night,Jenkinschester,4,2025-01-15,False,Contacted
+fe4f33f7-642a-4bea-9fe3-874676a5538e,Victor,Taylor,(737)370-9593x002,Warehouse,Weekends,West Willieton,0,2025-01-02,False,Interview
+b8db690d-5f9c-4bd9-b2b2-30b92acb87c8,Mackenzie,Miller,957.755.8957x845,Restaurant,Morning,Grossview,2,2025-01-28,True,Interview
+e129f9d2-d45a-4247-b598-b2dc86893c88,Aaron,Bailey,925-691-6146,Restaurant,Night,Tinabury,1,2025-01-16,True,Hired
+209b0faa-679f-410b-a290-90552a9b7be6,Michael,Gray,2595978711,Retail,Weekends,Gibsonstad,0,2025-01-03,False,Hired
+7aa866be-cd61-45fc-95db-7a18c2aabd73,Garrett,Perez,001-507-742-7796x684,Healthcare,Morning,West Tammy,2,2025-01-20,True,Hired
+3834ff11-695e-4f42-8117-6c66005094f2,Brad,Ellis,8183466099,Restaurant,Morning,North Johnchester,2,2025-01-09,False,Interview
+b812df75-6fa0-4953-9146-3b6427370e58,Caleb,Howard,+1-343-891-7789x9880,Retail,Morning,East Jonathonside,2,2025-01-02,False,Interview
+bc208143-3168-4bba-9cd5-bf9072534a37,Raymond,Chang,685-709-8515x19879,Healthcare,Morning,Gordonview,3,2025-01-26,False,Contacted
+79fb0173-e42f-42d5-8f26-0675b1c60224,Jessica,Brown,756.965.1917x449,Restaurant,Morning,Markchester,1,2025-01-27,True,Hired
+70307da6-1754-4509-80c6-dea607f3f502,Lisa,Mills,3667797578,Restaurant,Night,East Taraberg,4,2025-01-20,True,New
+c66f7ccb-7e77-48bf-b0cf-c9f1008b3534,Kevin,Mckinney,001-889-765-0255x90179,Retail,Night,West Lisatown,2,2025-01-28,True,Contacted
+b9b55ee6-3f4f-424c-b3ad-66f67b62efbb,Deanna,Lee,(630)588-3959x16217,Restaurant,Weekends,Lake William,0,2025-01-16,False,Interview
+8b2c960e-529d-49e1-871d-fc01ad2b7241,Diana,Maynard,403.967.3000x160,Restaurant,Weekends,West Stefanie,2,2025-01-18,True,New
+839bb8db-f2fc-4d33-8e35-b61f5e7354f6,Timothy,Smith,699-553-5712,Healthcare,Morning,Weaverchester,3,2025-01-14,False,New
+3d1b003c-3a87-4b2d-ac73-dbec90db8b97,Brian,Cox,389.371.1698x936,Hospitality,Evening,North Lisabury,4,2025-01-04,False,New
+6a20a913-8734-4b69-a38f-6a330d3367a6,Sarah,Griffith,821.824.9714,Retail,Weekends,South Megan,2,2025-01-07,True,New
+a46fae97-11fc-4cfd-b1bd-b7df683d5145,Hannah,Chapman,+1-215-889-4132,Retail,Evening,Jonesmouth,2,2025-01-12,True,New
+b7029661-1be8-4289-ac39-3d4d8aa2b688,Timothy,Miller,(212)298-4599,Healthcare,Weekends,West Ricky,0,2025-01-26,False,Interview
+6b9c6f1c-8ff3-480c-b24c-a1bc289a940a,Timothy,Estrada,+1-333-484-3346x7772,Healthcare,Weekends,North Alisonchester,2,2025-01-26,True,Hired
+5567c08a-8a0b-43d1-9fed-87eec94fa168,Gerald,Long,(558)415-7047x308,Hospitality,Morning,Port Richard,2,2025-01-04,True,Hired
+f84bfefd-420a-4f40-9f40-cef81e4c7c56,Daniel,Davis,+1-417-422-4601x3967,Restaurant,Evening,Whiteshire,2,2025-01-13,False,Hired
+18f5bb5d-aed3-4ecf-8697-346888072215,Natalie,Simpson,(339)931-6145x90184,Warehouse,Weekends,North Tonyaport,2,2025-01-19,False,Interview
+3a1acacb-787b-488f-a642-802bdb90ea21,Carmen,Thompson,+1-533-770-8943x5127,Restaurant,Evening,Castilloland,1,2025-01-18,True,Hired
+fad0aeef-1e41-44ed-b244-9292548d7e40,Joshua,Lewis,+1-586-789-6603,Restaurant,Evening,Port Matthewberg,1,2025-01-28,True,Hired
+1049de37-1c58-42dd-b04b-210abfea95ab,Thomas,Cooley,+1-715-746-2775x645,Warehouse,Weekends,Woodbury,5,2025-01-26,True,Hired
+36f85e8d-a957-4b87-bb9f-109362d9e0f6,Daniel,Mendoza,844.895.7240,Restaurant,Evening,Smithberg,3,2025-01-07,False,Contacted
+24016303-5008-4667-b612-27b6bdee901c,Joanne,Knight,474.586.5279x5616,Healthcare,Evening,South Mark,3,2025-01-25,True,New
+2e80dde1-338b-4d98-b881-682a19e96a3e,James,Camacho,6146961442,Hospitality,Morning,Donaldchester,2,2025-01-14,False,Interview
+b56b2792-e2fc-49ab-9d94-8bbdf757dac5,William,Dickerson,365-475-6146,Healthcare,Morning,Scottborough,2,2025-01-01,False,New
+2ed671a0-8714-4b0f-8abd-d59a71f4ed71,Wendy,Phillips,+1-534-396-3253x3661,Healthcare,Flexible,Cookemouth,0,2025-01-03,False,Contacted
+da8b7881-1d64-4423-ae45-3a7f021f31db,Mikayla,Freeman,001-916-416-4182,Warehouse,Weekends,New Annettestad,4,2025-01-01,True,Contacted
+fffa0626-a6db-4093-bff9-7b1959cd5510,Micheal,Garner,6525952629,Warehouse,Weekends,Smithview,0,2025-01-27,False,Hired
+8e8fb218-930e-4ffb-8046-1b43971ff259,Anthony,Mendez,(827)353-5520x9151,Restaurant,Morning,South Wanda,1,2025-01-07,True,New
+ca06d4c8-466b-4a23-ae6a-479a89a5840e,Rebecca,Duncan,+1-410-796-7062x8633,Warehouse,Weekends,Port Jonathanfort,3,2025-01-29,True,Contacted
+4688435d-a6e2-4446-9710-c0fcce8caf8f,Bryan,Simmons,+1-948-403-5418,Warehouse,Morning,East Jamesmouth,2,2025-01-02,True,Interview
+bfca1df5-88ef-4c24-9b54-ad9c11b2104a,Dustin,Graham,741-950-0422x6301,Healthcare,Evening,Lambertfort,3,2025-01-05,True,Interview
+c8757b71-6c1c-4db6-906e-f3faed17fe56,Tyrone,Leon,508-703-8663x181,Warehouse,Morning,Chenbury,5,2025-01-28,False,Interview
+36c3412b-d6e9-4a55-8cf7-44e0fb691320,Michael,Nolan,001-856-886-3293x7227,Hospitality,Night,Jeanhaven,3,2025-01-02,True,Contacted
+2c7b226a-a4b2-4248-a599-29da99dca076,Rachel,Erickson,568.297.0738,Hospitality,Evening,Devonmouth,4,2025-01-26,True,New
+b367af56-6945-4afc-8f80-6b1b6bb724f1,Jose,Stewart,+1-788-996-9209,Warehouse,Weekends,Lake Laura,3,2025-01-09,True,Hired
+10fb356b-a1aa-4c70-a533-7d0e36553673,Kenneth,Brennan,(323)864-3541x099,Restaurant,Evening,Thompsonfort,0,2025-01-15,True,Hired
+e4f8cef4-453b-4ee0-88c5-ec95051f47dd,Cynthia,Cook,001-363-494-5416x369,Warehouse,Night,North Jillborough,1,2025-01-14,False,New
+1cbba82f-204c-4d23-b8ac-bcc44e55e595,Zoe,Suarez,308-709-3500x515,Retail,Flexible,Floresstad,0,2025-01-03,True,Interview
+f254af0b-7af6-4abc-a8bf-8aabf9128ce5,Laura,Smith,324-445-7579x3603,Hospitality,Weekends,Lake Joshuaborough,0,2025-01-08,False,Contacted
+2ea027fe-31c3-4cfd-b046-c6132d045713,Kyle,Rodriguez,001-310-222-2174x6979,Healthcare,Morning,East Edward,0,2025-01-22,True,Contacted
+ed507572-f683-4b0f-b214-b865f12307d3,Brandy,Taylor,001-242-809-7046x95670,Warehouse,Night,East Scottmouth,0,2025-01-06,False,New
+b960a25b-1094-41c7-9601-4e7577e16596,Brett,Wright,500-207-6518x4712,Restaurant,Night,Steinchester,2,2025-01-19,True,Contacted
+fc602fb9-1ae4-46b2-9b94-5007b1b2b536,Lisa,Lamb,249.614.3852x45585,Healthcare,Evening,Reidview,3,2025-01-15,True,New
+3c01f124-bf64-447f-a0dc-fd6377b91afd,Alan,Thomas,+1-628-381-4004x05373,Retail,Flexible,South Kyle,4,2025-01-07,True,New
+d2bb8897-e424-4839-a3f6-b185421f41c3,Martin,Flores,351.333.4910,Restaurant,Weekends,Maryton,5,2025-01-04,True,New
+1c0365f9-ccd7-41fc-8859-14e39b31762b,Kathryn,Harmon,637-376-8518,Warehouse,Evening,West Tinaborough,5,2025-01-19,False,Contacted
+18214fcf-6972-4f06-86a1-cdff95469f08,Matthew,Curtis,001-277-749-8266x37100,Warehouse,Morning,North Jonathan,4,2025-01-03,False,Hired
+c431e826-3c8d-487c-a193-754fb941e0ad,John,Williams,+1-538-619-8622x82149,Restaurant,Night,Lake Johnmouth,3,2025-01-19,True,New
+1749c441-7cc8-43d2-9c05-f0f11244aee0,Kevin,Caldwell,001-633-736-7958x272,Hospitality,Morning,Butlerfort,0,2025-01-21,False,Contacted
+5def9885-4e28-4c57-bedd-ba0fc1abc759,Craig,Wilson,431-354-7018,Hospitality,Weekends,Michelleport,3,2025-01-25,False,Hired
+55f9eed4-8855-4e97-8737-6b4992a11b30,Eric,Shelton,001-220-584-2230,Warehouse,Morning,Cynthiastad,0,2025-01-20,False,New
+bb3a4e67-0386-4403-b494-f8557069728e,Ryan,Brown,(845)669-5060,Retail,Morning,Staffordtown,5,2025-01-26,False,New
+dfa424c7-5863-4044-91bd-f097438551e3,Sarah,Snow,+1-660-473-7215x7868,Restaurant,Flexible,Clarkfort,3,2025-01-03,False,Interview
+0a07c724-3264-415a-a4e9-8210184111ef,Monique,Ward,+1-869-947-5949x966,Hospitality,Night,Port Brendatown,1,2025-01-22,True,Hired
+5045dc1b-f96c-42bf-8a1e-3988b38c05e2,Kevin,Williams,001-349-526-5591x05781,Healthcare,Morning,Lisaview,2,2025-01-27,True,Interview
+41150397-996d-4efa-a76b-f8e7e1479c6a,Travis,Decker,847.679.3566,Healthcare,Flexible,East Kristinaton,3,2025-01-26,True,Hired
+f55a7c2a-a50b-4839-b912-6a0e5c3f2e21,Judy,Stone,(692)485-3351,Healthcare,Night,Port Toni,4,2025-01-27,True,New
+1b4cf3fe-2f94-4a4a-a3b9-056fc81d6e0e,Samantha,Jordan,550.742.6452,Hospitality,Night,North Danielleburgh,5,2025-01-13,True,Contacted
+78c5421a-bca1-4468-bb6c-92a9a8442f66,Grace,Cochran,529-242-4097x0156,Retail,Evening,Lake Christopherton,3,2025-01-09,False,Hired
+79054b3e-2067-421e-99b0-063f833e714b,Linda,Fisher,536-991-1303x41771,Healthcare,Flexible,South Shawn,3,2025-01-26,False,New
+f85c11e5-c1cf-476c-a8f5-e39072e654d0,Christopher,King,988-599-8126x19982,Retail,Evening,Simpsonmouth,5,2025-01-12,True,New
+7ea997c6-e2aa-4417-b143-2fe4eeb709e6,Angelica,Rojas,(257)223-6446x71979,Hospitality,Weekends,Richardsonstad,1,2025-01-15,True,New
+2280d850-6eeb-4f1c-b28c-823ddb32675c,Susan,Hale,354.407.9615x712,Retail,Evening,South Sonyaburgh,2,2025-01-14,True,New
+e36e7c3b-53b8-4df4-a4f2-e4039edeb426,Kimberly,Olson,897-517-1506x6080,Hospitality,Evening,Melissaton,1,2025-01-10,False,Contacted
+6305b090-84d4-4605-b95e-a5aa3050046a,Sabrina,Burgess,(588)692-5438x43499,Restaurant,Flexible,East Amandaborough,2,2025-01-24,True,Interview
+2a197e42-2fb8-4793-9a5c-95d5f79f376a,Jaime,Jensen,001-584-365-7445x26784,Retail,Morning,Ryanmouth,1,2025-01-17,True,New
+cf5c996b-e2f0-4536-a6a1-27a2e4491df3,Devon,Santiago,001-445-327-1503x5616,Healthcare,Flexible,East Daniel,0,2025-01-11,True,New
+e6536144-4223-4d5b-b9e2-a5eb44dedb78,Walter,Silva,956-287-4309x347,Restaurant,Night,South Jason,3,2025-01-24,False,New
+c0197209-3632-414d-85f2-cfc13972ccb1,Helen,Conrad,249.265.3954,Warehouse,Morning,Owensberg,2,2025-01-04,True,Hired
+dfbfa048-d73c-450c-96b5-5658f4c9a241,Michelle,Sutton,(636)334-5274x415,Healthcare,Flexible,South Sandrabury,1,2025-01-05,True,Hired
+c94e3f19-6774-4a42-a231-bcc8602b052a,Justin,Gonzales,944-611-6005,Restaurant,Night,Garrettview,0,2025-01-11,False,Hired
+2c86b911-a140-47b8-b4c3-6887c0c1ed1b,William,Harris,+1-885-626-0094x83861,Restaurant,Weekends,Lake Travisshire,1,2025-01-27,False,New
+77ee4819-835f-4b43-a076-337f891cabff,Rick,Kennedy,+1-229-345-5875x2464,Hospitality,Morning,West Jenniferbury,0,2025-01-02,True,Interview
+80429feb-4cf2-4707-a646-b97a84560755,Ashley,Taylor,583.994.8668x0317,Retail,Morning,Rodriguezhaven,4,2025-01-01,True,Hired
+7f86b650-8b33-4c7b-bd6f-6377dab7e80b,Anthony,Smith,+1-202-599-4256x3782,Hospitality,Night,Johnsonmouth,2,2025-01-12,True,Interview
+4a28921f-a10d-4497-8a24-0216afe55589,Nicole,Bailey,904-802-7005,Restaurant,Weekends,Barneschester,1,2025-01-09,False,Hired
+bcae9b8a-4007-40e9-87b0-5e324a6a771b,Michael,Hodges,+1-851-356-0427x330,Retail,Morning,Brianshire,5,2025-01-03,False,New
+005814b2-7110-4601-bf08-41b875b6c2f6,Katherine,Brooks,+1-885-510-1182x7607,Retail,Weekends,Aaronfurt,2,2025-01-13,True,Interview
+7fb89ccb-ab5b-4db3-9e94-58e180eb599f,John,Taylor,808.754.8411x231,Restaurant,Weekends,Michaelberg,2,2025-01-04,False,Hired
+a9a09f2c-c0e1-461b-83d2-83b25f9cf763,Michael,Franco,736.428.7549,Healthcare,Morning,New Frankville,4,2025-01-12,False,Interview
+0e8de54d-699a-434d-bdd4-caa128caf1d4,Megan,Cunningham,9994277267,Warehouse,Flexible,New Andrewbury,5,2025-01-02,True,Interview
+ae9b9844-0a2b-47ff-a7d5-25f0d574c850,Melissa,Joseph,001-217-279-5980x95957,Warehouse,Morning,Waynechester,0,2025-01-04,True,Hired
+404fc3e7-7469-45ca-aed5-99dd3a1f6062,Eric,Collins,343.955.3146x37748,Healthcare,Weekends,West Bryantown,2,2025-01-16,True,New
+f9d31ff6-8847-464e-bde7-891020a6c1b1,Jessica,Turner,001-991-592-4075x7995,Healthcare,Weekends,Youngshire,2,2025-01-12,True,Interview
+22be7a31-4381-4203-b0dd-19b1d3d9c19d,Karina,Middleton,+1-987-379-9345x58385,Hospitality,Weekends,Bruceshire,2,2025-01-17,True,Interview
+4d88fd30-65a1-4119-a82a-d16571de18d3,Catherine,Wilson,845-590-2953,Retail,Flexible,Amandachester,0,2025-01-03,False,Contacted
+4cccaae2-1cff-4e4c-b442-c165d49ea35e,Karen,Jackson,526.768.6589x037,Healthcare,Weekends,Amyburgh,5,2025-01-25,True,Contacted
+9d95779e-857b-45ae-8653-3559761c0392,Jacqueline,Gordon,+1-647-810-0114,Warehouse,Morning,North Shannontown,2,2025-01-03,True,Interview
+55bc31ae-36e2-4bcb-b99b-e32569229e5a,Rose,Moore,(453)810-4783x054,Hospitality,Night,Lake Calebtown,5,2025-01-07,False,New
+c6c7bfb3-2b11-4d91-85a0-fc77f602ce20,Christopher,Wilson,(999)871-1245x13757,Warehouse,Morning,Nicolebury,2,2025-01-05,True,Contacted
+30591829-063c-4896-b01d-d0dee3b5b4f7,Sharon,Davis,(668)593-2668,Hospitality,Weekends,Gregoryville,0,2025-01-03,False,Interview
+56dbd372-e1fd-4946-b3e0-e4e822e37a80,Cody,Kelly,(591)306-1179x348,Warehouse,Weekends,New Angelica,1,2025-01-11,True,New
+29a8709b-7bfe-410a-8920-63aa6a45197e,Kayla,Johnson,796.457.2679x26337,Restaurant,Morning,Weberfurt,1,2025-01-05,False,Contacted
+ac967360-6c08-46f5-8bb4-88f94b4b8eb4,Patricia,Hartman,(355)214-7435x778,Hospitality,Flexible,East William,1,2025-01-16,False,Hired
+546dce4b-c145-463d-9e10-7dd6f9045331,Rachael,Young,932-748-7359,Healthcare,Flexible,West Melanie,5,2025-01-06,False,New
+6ea917d1-8d09-46ab-94df-57f0ecc18707,Miguel,Collier,+1-325-827-5314x799,Retail,Weekends,North Mark,4,2025-01-28,False,Hired
+d01811d7-b4ed-4cce-b1d8-dbc1402b248d,Suzanne,Roach,(959)730-0276x04255,Restaurant,Morning,Rachelberg,4,2025-01-22,False,Interview
+af43174a-bdf3-4b74-94af-58e8a0fa3935,Meredith,Miller,(820)527-2335,Hospitality,Night,South Jasmine,3,2025-01-19,True,Hired
+1cfd5885-e224-4229-8291-4c0d8ba1e572,Daniel,Gomez,354.359.8428x19803,Restaurant,Night,South Susanbury,1,2025-01-20,False,New
+986a6aea-20ef-42f5-be7c-d489434013c8,David,Hansen,001-393-935-3182x22147,Hospitality,Weekends,New Nicole,1,2025-01-29,True,Interview
+874e9d20-3bd1-417d-8236-b4f453efe4e5,Marcus,Wells,(856)973-2958x093,Healthcare,Night,Floreston,1,2025-01-14,True,Hired
+6f802503-3b5e-4ac9-aa3f-a6d03c29902f,Nancy,Smith,571-442-7690x175,Restaurant,Night,Turnerton,1,2025-01-28,False,Hired
+c447eba8-214b-4755-8ab3-4382ced6bc45,Yesenia,Castro,001-770-980-8127x05834,Warehouse,Morning,Lake Taylorton,4,2025-01-19,True,Interview
+46df65cd-73d8-4a2f-805f-f2311ef7b37b,Catherine,Patterson,5579555234,Healthcare,Weekends,Port Glennborough,3,2025-01-05,False,Hired
+0f5bc963-297f-4c8f-ac45-ac877cb610a0,Lisa,Mays,229.249.1593x0003,Hospitality,Night,West Victoria,0,2024-12-31,False,Contacted
+cbf16781-257a-46a8-a0c2-e06d4147a308,Kevin,Callahan,278.334.1724x93049,Hospitality,Night,Brianafort,4,2025-01-08,True,Interview
+fbd051ea-a3b0-4afb-88df-8f260c2f263a,Lori,Russell,001-999-311-7087,Warehouse,Morning,Lake Andrewtown,1,2025-01-28,False,Hired
+30634880-aa4e-439d-8e14-11394047bf9c,Gabriella,Sanders,(502)413-9418x319,Hospitality,Weekends,Meganmouth,0,2025-01-05,False,Interview
+28fa9577-b6ef-4d47-b4f3-5e21333b2608,David,Mckinney,001-345-817-8346x636,Warehouse,Evening,West Dave,2,2025-01-27,True,Contacted
+b2d6237f-a9e6-40c6-9ff4-c11620a509e8,Daniel,Mayer,001-521-954-4200x74907,Restaurant,Evening,Sanchezview,3,2025-01-22,False,Interview
+7225b2fa-078b-4eaf-8ee8-edf07eb8fd21,Cheryl,Brennan,366-259-0746x28049,Hospitality,Night,Welchstad,3,2025-01-19,True,Interview
+5ac95278-13a2-425d-83a0-6698581f67b8,John,Wong,272-420-1711x0500,Warehouse,Morning,Racheltown,3,2025-01-23,False,Contacted
+082806bc-db41-4839-8d90-e4fca2550c1c,Maria,Carey,791-357-7712,Retail,Morning,Port Jesus,3,2025-01-28,True,New
+f1efa0ef-7d57-46c1-83a3-e5cf309ca3ca,David,Davis,(378)817-1256x2003,Healthcare,Weekends,Port Abigail,0,2025-01-20,False,Interview
+ae881553-aedc-45f3-abc1-7b62373357da,Theresa,Finley,001-357-288-4738x50531,Retail,Morning,Davilatown,1,2025-01-17,False,Hired
+34d39279-c956-4f7e-847a-46a419ede09a,Maria,Cook,299-368-2378,Warehouse,Night,South Travis,4,2025-01-27,False,Interview
+ad71c999-f9f6-4d16-9527-fdb6388966a5,Jennifer,Munoz,+1-462-411-6526x47004,Hospitality,Morning,West Justin,1,2025-01-06,True,Hired
+c05b2622-f35e-4dda-8f12-73604b741fa9,Sarah,Thornton,+1-408-360-6542x4019,Healthcare,Night,Port Johnfort,4,2025-01-16,True,Contacted
+c027d6b7-e744-4191-843b-f0bdb20a7226,Carrie,Everett,+1-469-501-2745x245,Hospitality,Weekends,Andersonberg,5,2025-01-02,False,Contacted
+d3d03183-b381-478e-ab50-4bc5410fe939,Diane,Roman,920-865-4510x347,Healthcare,Weekends,Danielsville,4,2025-01-13,False,New
+a0ed8e6c-e693-47c8-9171-40ea701b0beb,Monique,Taylor,6524005205,Restaurant,Morning,West Allenshire,3,2025-01-28,False,Interview
+31f9c251-8a81-4502-a856-b30b25e60f82,Ruth,Evans,001-507-261-6142x33580,Restaurant,Evening,Hernandezfort,4,2025-01-23,True,Contacted
+f049a7fa-93e2-4e89-a722-ab19d71c5e31,Anthony,Clark,(662)255-8921x68941,Hospitality,Flexible,Tylermouth,3,2025-01-24,False,New
+1ccc0a8e-e036-49e5-befa-29d34874b6d5,Mary,Martin,812-789-9245x40938,Hospitality,Night,East Joseph,1,2025-01-16,False,Hired
+45443252-b2a5-4b66-907b-ccc09d43700a,Andrew,Reyes,9956444844,Retail,Evening,Alvaradoport,4,2025-01-05,False,New
+526ec356-e798-4687-a925-1d00e85d42ef,Katherine,Bishop,+1-804-584-9739,Warehouse,Weekends,Melanieton,3,2025-01-18,False,Interview
+33dc5928-bbb4-460e-a65b-06a655c0a60a,Keith,White,001-881-914-6503,Warehouse,Evening,Hendersonstad,2,2025-01-06,False,Interview
+14d1c333-3b44-48de-becf-57e822a16d52,Edward,Weiss,706.541.1769x6738,Restaurant,Flexible,Lake Jillstad,3,2025-01-01,False,Contacted
+924e319c-81cd-4f97-a055-fac792e6e081,Mary,Bishop,001-353-844-4794x44001,Retail,Morning,North Ronald,5,2025-01-10,True,Contacted
+976c12bd-a658-4665-bc5d-59cf58ed2873,Douglas,Herrera,7652686706,Healthcare,Evening,Shortton,5,2025-01-29,False,New
+e3c838d2-52b4-496f-b273-aa788ccfec66,Lori,Huerta,(921)354-8657x554,Hospitality,Weekends,Lake Amyberg,1,2025-01-02,False,Hired
+692db7cf-9e30-4bc4-aacb-ca11a62f4ffe,Leslie,Rios,+1-591-530-0178x6156,Retail,Weekends,Gibsonton,4,2025-01-11,True,Interview
+59077375-8974-4e83-9093-019431feccab,Craig,Cole,001-427-552-8507x4846,Restaurant,Night,Port Jennifer,4,2025-01-17,True,Interview
+915ed8be-5dc1-422c-9cb3-2fc9811420f6,Robert,Riley,001-834-619-4219,Hospitality,Weekends,Lake Maryville,4,2025-01-22,False,Interview
+6a3bc555-5956-4860-9792-95a78c486723,Paul,Rhodes,001-367-549-1043x8459,Retail,Night,East Nathan,3,2025-01-22,False,New
+3b115af2-f6c0-45b8-a7e9-38dba9f92aab,Karen,Banks,001-808-323-5514x13498,Healthcare,Flexible,Jacksonside,5,2025-01-11,True,New
+d022bd31-8122-48ef-9afb-51e25d5c222c,Walter,Curtis,(904)651-4209x9115,Healthcare,Night,West Danielle,5,2025-01-12,False,Contacted
+1a7ace38-3d0b-45f9-be9f-da60f430db5b,Richard,Hill,(472)820-5795x774,Warehouse,Morning,Cherylside,0,2025-01-21,True,Hired
+3d8c4bbc-b844-4b33-bd00-9b6b37898fea,Kevin,George,967.285.6647x29054,Retail,Night,East Natalie,4,2025-01-26,True,Contacted
+19ea8c13-6c46-44eb-91d5-fb82941468ff,Kelly,Dunlap,(356)901-9889,Retail,Evening,Lake Scottchester,4,2025-01-22,True,Hired
+42a0ce5e-8a0c-4907-bb3b-20b6f82cbab4,Justin,Ramsey,(802)269-7837x7261,Hospitality,Flexible,Reidfurt,0,2025-01-19,False,Hired
+0adc243a-bb49-420c-812e-4ab6a61f9bf6,Elizabeth,Willis,524-594-8859,Hospitality,Morning,Vincentville,0,2025-01-22,False,New
+8dc94f41-2e67-4f92-8737-ae0b21408f09,Jonathan,Parker,(722)446-4912,Retail,Night,Samanthachester,3,2025-01-18,False,Contacted
+e3fb7816-7ac4-469a-85a6-908d7fa3658b,Shelby,Ayala,+1-338-881-8090,Warehouse,Night,Wilsonport,5,2025-01-23,True,Contacted
+a2418a96-bccf-42c9-9a17-9f5944fb7356,Clayton,Chapman,(266)235-8910x594,Healthcare,Evening,New Joseph,5,2025-01-01,False,Contacted
+87ce4555-c061-4493-8426-d8b464ad689f,Brenda,Smith,+1-525-783-4305x595,Warehouse,Evening,Morganside,4,2025-01-15,True,Contacted
+06c6965d-b1ac-4719-a470-571eba443d54,Scott,Lewis,(511)473-5115,Restaurant,Night,East Thomas,5,2025-01-23,True,Interview
+7ec72f5b-87fe-498c-8131-6cd51398bcd1,Denise,Shields,552-830-7793x2111,Retail,Weekends,Carolshire,4,2025-01-12,True,Interview
+04f89300-2b7c-42bc-9ef9-8d39b9b5077c,Jennifer,Harris,001-843-688-0947x5448,Hospitality,Night,North Cynthia,0,2025-01-19,True,Contacted
+8f98973c-3123-4670-ad39-807d30545b1b,Joshua,Weber,001-252-339-1865x4019,Retail,Flexible,North Gregory,1,2025-01-04,False,Hired
+aab224a2-9317-407a-a128-5dfec5972daa,Manuel,Franklin,569.772.2029x947,Retail,Weekends,East Tracy,5,2025-01-08,False,Interview
+b239005c-11b1-435f-8356-0f57199d2487,Benjamin,Sutton,001-220-587-2438x67957,Warehouse,Night,Colleenburgh,0,2025-01-21,False,Interview
+4f57ca7b-2730-464a-b847-350652aa9865,Janet,Mueller,314.442.8640,Retail,Morning,Cherylland,3,2025-01-11,True,Hired
+da667c43-e380-40da-ae0f-7a9f6b9207e9,Tracie,Hunt,466.585.6366,Hospitality,Morning,Lake Allisonchester,3,2025-01-07,True,Contacted
+231e0e48-5c17-496a-898d-7adbc4f6ec49,Evan,Parker,247.432.7576x012,Hospitality,Evening,North Janet,4,2025-01-13,False,New
+e9ed92fc-404b-4eb6-ac2a-854d021db10b,Jeffery,Brown,001-238-529-5193x81647,Hospitality,Evening,Rodneyville,4,2025-01-27,False,Hired
+a0c14f73-c725-47b7-ace7-ef06681dfe2d,Sherry,Snyder,8919233668,Retail,Evening,Port William,4,2025-01-15,True,Hired
+8e5cda17-17d2-4f83-93cf-73845b003965,Christine,Ramirez,578-627-1337x34300,Retail,Flexible,Reidside,3,2025-01-22,True,Interview
+8d3ce515-8180-4966-a2f9-23872516bf0d,Theresa,Rogers,001-750-222-6486x32478,Retail,Flexible,Lynnhaven,2,2025-01-21,False,Contacted
+55d01361-2a3b-499b-bf6e-8f992a340b73,April,Williams,+1-747-609-6812x690,Warehouse,Weekends,Ashleytown,0,2025-01-18,False,Interview
+32ed4d1c-5910-4f83-a643-086b3957e579,Kyle,Thomas,507-982-8822x3812,Hospitality,Evening,Stevenburgh,1,2025-01-17,False,New
+be801bd6-aeaf-4e16-882c-cfa7c8eb9c57,Audrey,Walton,+1-327-655-1760x853,Restaurant,Morning,West Heathertown,2,2025-01-15,False,New
+62c29082-e132-4b55-8d15-c2800291c150,Matthew,Mcdaniel,+1-961-755-3796,Healthcare,Night,New Laurenton,3,2025-01-11,False,New
+140aee9b-0f52-44f2-b54d-52bd704ac2c6,Nicole,Gonzalez,001-848-726-7484x278,Restaurant,Night,Jonathanfort,1,2025-01-19,True,Hired
+a396f0e8-8a84-4dc9-8aa0-96143e9004e6,Alicia,Becker,(930)942-9127x30304,Restaurant,Morning,New Lauren,0,2025-01-15,True,Hired
+734f2c97-f2fc-4b09-84be-dde2fd7bf16f,Scott,Jones,919-244-1215,Retail,Evening,Jillstad,3,2025-01-01,False,New
+d4261dc5-a334-4274-8e14-fa3446c80cf1,Nicole,Parker,602.320.2560,Restaurant,Night,Natashaburgh,2,2025-01-15,True,Hired
+d1cb7d2f-0663-4609-874e-fc706a3dc478,Susan,Phillips,482-690-2415,Warehouse,Evening,Lake Alejandrofurt,4,2025-01-26,True,Interview
+365afdf5-c7ba-4451-82b6-09a4fe514243,Clifford,Sandoval,+1-847-396-1810x3767,Warehouse,Night,South Matthewhaven,4,2025-01-10,False,Contacted
+fbb44291-f0ab-435d-a335-96f6e2530409,Troy,Williams,(276)805-3783x60654,Retail,Evening,Brianport,3,2025-01-06,True,Hired
+2237b207-c4e2-4588-a1cd-fa89b0700047,Michael,Fletcher,735-290-1911x07363,Retail,Evening,West Juan,2,2025-01-12,False,Interview
+8f04baf0-c421-465a-81be-05ca255cdce6,Anne,Abbott,+1-795-618-6340x1441,Hospitality,Weekends,Lake Sharon,0,2025-01-14,False,Contacted
+0fcd5a67-1b3b-46af-92ca-ca93a8ef30aa,Angel,Thomas,422.663.4342x210,Healthcare,Weekends,New Richardtown,1,2025-01-27,True,Interview
+14089de1-9bf6-47fb-b5e7-15267e495022,Sarah,Brewer,956.525.7522,Healthcare,Weekends,East Veronicatown,2,2025-01-19,True,Interview
+a9cb9d66-c173-44d5-ad31-602c1247db7f,Steven,Knight,001-766-524-5943x129,Retail,Flexible,Alvarezstad,5,2025-01-12,True,Hired
+f28ea350-e165-4ba6-b23e-c6397ac10a1b,Dwayne,Castro,470-344-9750x18458,Hospitality,Weekends,Lake Patrick,4,2025-01-04,False,Contacted
+be27c328-25a5-4f44-9052-4e10e2f0b996,Andrew,Johnson,931.936.0591,Hospitality,Weekends,South Andrewfurt,3,2025-01-05,True,Contacted
+b8668728-5284-426f-b09e-6ee59069be22,Hannah,Long,(371)385-1994x576,Retail,Weekends,Doyleside,5,2025-01-23,True,Interview
+b10a2444-cceb-4050-bd0e-65b62499544b,Kevin,Williams,(582)376-4323x896,Retail,Evening,Michaelville,2,2025-01-08,False,Contacted
+2e1a592b-f940-4562-acdd-ba0ffa2d3be3,Trevor,Shah,001-592-361-6254,Healthcare,Weekends,Port Luis,4,2025-01-03,False,Contacted
+52c23950-e49b-49b6-8895-4b1d7110c6b8,Cindy,Powell,467.513.6859,Retail,Flexible,Escobarstad,5,2025-01-08,False,Contacted
+c98406a4-1e45-4407-80c4-f7aaf3f59882,Megan,Mathis,001-704-378-8823,Restaurant,Morning,New Jessica,0,2025-01-09,False,Contacted
+2d2b4b5e-8ff3-41d6-bd55-e92eb38205f0,Daniel,Copeland,(966)984-3144x98627,Hospitality,Morning,Daleville,3,2025-01-18,True,New
+e48f439d-d9e3-473f-ac17-272b55dc2f20,Ashley,Cummings,001-657-941-0218x8238,Warehouse,Morning,Jenniferton,2,2025-01-29,True,Contacted
+d4ecfad0-1d9f-43fb-aff8-7ee6b4efc069,Tiffany,Newman,(952)692-4250,Restaurant,Morning,Johnhaven,1,2025-01-09,True,Interview
+050d2b9e-a957-4d1b-8b44-e35e8246fb80,Matthew,Johnson,+1-335-245-9333x5164,Warehouse,Night,South Brandon,4,2025-01-22,False,Hired
+4dc7255d-d6d3-4c9f-a5f3-82a0fe95c35d,Deborah,Miranda,582-651-8697,Hospitality,Flexible,Crystalfurt,0,2025-01-11,False,Interview
+b9104826-1e18-48d4-a449-655be8cecec0,Adam,Ford,659-651-1942,Healthcare,Evening,Jacksonfort,1,2025-01-08,False,New
+b819dcc4-80f4-4166-a353-5fcdfcbd1148,Laurie,Long,569-985-1716x5681,Healthcare,Night,Kevinport,0,2025-01-04,False,Interview
+2c0dcb60-d316-4c0b-b692-50e85bcdc5c9,Brad,Baxter,001-688-504-4304x030,Retail,Morning,Jacobville,1,2025-01-25,False,Hired
+3b438320-ee92-4bf9-b147-d55a3add8bef,Maria,Jimenez,(990)793-6615,Hospitality,Night,North Darren,5,2025-01-26,False,Interview
+7829ab97-bbab-4fe3-82e6-86ed258cd01e,Zachary,Dixon,+1-218-537-3411,Hospitality,Flexible,Lake Timothy,2,2025-01-26,True,Interview
+f47d5efc-247c-4da1-ba16-165823899181,Samuel,Garcia,271.926.1649x3695,Hospitality,Weekends,North Alexander,0,2025-01-27,False,Hired
+5e79d0c9-210c-4973-bff3-71529d52ec0c,Cynthia,Reed,780-583-7943,Retail,Evening,New Theresamouth,5,2025-01-05,True,New
+e33183a0-49a2-4c6b-9ec6-5bb4b6c65e1f,Stacy,Hernandez,246-303-0995x00954,Healthcare,Weekends,Stephensville,2,2025-01-04,False,Hired
+6ab331de-270c-4807-b12e-f9ce6af6d0f7,Tracy,Mercado,(940)547-9598x37504,Healthcare,Evening,Clarkside,5,2025-01-02,True,Hired
+696e427b-9b97-4409-88fb-711444eb8e55,Christopher,Mcdonald,708-508-3124,Restaurant,Evening,Camposfurt,3,2025-01-24,False,New
+1e502342-5cb7-4602-a9ef-59dc884dfe50,William,Cunningham,001-870-243-0298,Warehouse,Evening,Lake Gabrielaberg,4,2025-01-06,True,Contacted
+cfeb0446-37dd-4358-b17f-467c9dfcbe8a,Mark,Mann,765.869.3008,Restaurant,Flexible,Port Samantha,2,2025-01-06,False,Interview
+f29ae051-d2e1-464b-b811-e963dba7eaab,Jennifer,Taylor,001-513-699-2716,Healthcare,Flexible,East Rogerchester,0,2025-01-16,True,Hired
+c6a89d41-f9a0-4589-b658-f381ba077377,Danielle,West,001-521-513-2924x7263,Hospitality,Night,East Michaelhaven,5,2025-01-16,True,Hired
+7e95cdda-a80c-4081-97e8-f7d7a11e35c6,Jason,Carter,266.979.8750x03361,Restaurant,Morning,Klineview,4,2025-01-08,True,Interview
+53155406-1947-4cf0-8cc9-208ed5e0e084,Megan,Mckee,849.370.4252,Warehouse,Weekends,East Annhaven,2,2025-01-12,False,Contacted
+41ec7b01-aac2-4973-8c54-8ddd105ab404,Sharon,Moore,+1-436-737-6765x90027,Restaurant,Weekends,Curtismouth,1,2025-01-10,False,Hired
+5966fc16-9ef1-43b3-8d8a-f212915f3ee9,Lee,Simon,+1-224-788-9278x8718,Hospitality,Flexible,West Janet,3,2025-01-24,True,New
+f0f5835d-a608-400d-bbc0-f3d02dab8f87,Justin,Weeks,926-842-6863x001,Healthcare,Morning,Blakebury,1,2025-01-09,True,New
+fc3a8286-507d-4620-90d0-cbe9c7d4192d,Katherine,Gonzalez,001-733-439-1327x70198,Restaurant,Night,East Kaylatown,4,2025-01-06,False,Hired
+404c69db-8164-45fc-a840-8eb5e690d4a8,Kimberly,Ewing,993-408-3725,Warehouse,Weekends,Jacobborough,3,2025-01-28,True,Contacted
+16ce8c4c-fcf4-4e00-96b4-325e4f44de1d,Jeremy,Turner,296-209-2036x06158,Restaurant,Flexible,Elizabethbury,0,2025-01-05,False,Contacted
+60c182b5-74bd-4f67-800e-86e83b011cea,Kristin,Wilson,4258161608,Healthcare,Flexible,Gregoryview,5,2025-01-26,False,Contacted
+214e5764-ca0a-4c99-ab13-ca9358bc85c7,Kendra,Salinas,001-211-479-0174x35170,Warehouse,Flexible,Elizabethfurt,5,2025-01-03,False,Contacted
+827d5367-04ae-4357-98ea-38b3f59dcfd3,Jennifer,Jones,(330)853-2461,Hospitality,Weekends,Richardport,1,2025-01-12,True,Interview
+d566c06d-abde-4bbf-9b08-b10deb50cf8b,Rodney,Mathews,7664759918,Hospitality,Evening,Fernandezville,2,2025-01-08,True,Interview
+77ab880b-75f8-40d3-9851-d103dc2eb179,Anthony,Glenn,001-498-580-5226,Hospitality,Night,Bryanview,3,2024-12-31,True,Contacted
+0246b99a-7693-4da7-9d9a-1b1736bc59ad,Lisa,Johnson,395.695.2417,Healthcare,Morning,Robertview,4,2025-01-27,True,New
+3c5e483c-c1da-45da-93c2-9f533f616185,Jared,Kent,001-842-238-2140,Restaurant,Flexible,South Jessica,4,2025-01-17,False,Hired
+b0edb426-79aa-474c-a609-f68c82991fcb,Jordan,Scott,515.499.3460x45064,Healthcare,Flexible,Grayland,5,2025-01-14,True,New
+85d9417b-9f09-43fe-bdd3-4fe4b2f55ce2,Robert,Francis,001-298-960-6398,Warehouse,Morning,Lake Arielton,2,2025-01-04,False,Contacted
+273398eb-72cb-4a95-9262-abae66255cff,Yesenia,Reynolds,460.258.9035,Restaurant,Flexible,Jenniferport,1,2025-01-23,True,New
+dd87c278-8bcf-4dbc-9a00-29441e606ad5,Donald,Hudson,608-488-4233,Hospitality,Night,Port Erinland,0,2025-01-13,True,Interview
+9983de5a-bd57-4896-bd45-14a7588f1a06,Brian,Wilson,443-724-5025x7238,Hospitality,Evening,Autumnland,5,2025-01-27,True,New
+5167e4d3-1c46-4799-90dd-e605e78ddf4f,Aaron,Campos,(340)990-1922x706,Warehouse,Evening,Elizabethbury,0,2025-01-05,False,Hired
+12a5b9c2-b848-4d68-acd7-56b1f9b242ba,Noah,Clark,+1-345-293-2285,Healthcare,Flexible,West Barbaramouth,3,2025-01-16,False,Interview
+b3b2bdce-73fc-42d7-b6d6-2f9c8bd5b2f5,Jennifer,Sosa,7458798946,Retail,Weekends,Lake Dianashire,3,2025-01-20,False,Interview
+b76d1fdd-5cd3-427f-ac63-f5d44d2c8c43,Andrea,Lewis,(399)539-5655x770,Healthcare,Evening,New Stephanie,1,2025-01-25,True,Contacted
+8222c737-09eb-4407-b591-61f852b4c3e7,Sara,Daniel,+1-284-248-4108x406,Hospitality,Night,North Louisborough,3,2025-01-11,True,Contacted
+d6c30a3d-a192-40bb-aac9-aa45dcf30f1a,Calvin,Lopez,739-674-8570x994,Healthcare,Evening,Jordanberg,1,2025-01-02,False,Hired
+cca4fc35-18d6-436d-9597-a191b5e80dbb,Nathan,Rodriguez,001-919-299-7216,Restaurant,Weekends,Sarahhaven,5,2025-01-28,False,Contacted
+f806628f-f96a-4f9a-ab82-1ac409c6873e,Jamie,Torres,001-468-798-5653,Restaurant,Flexible,Georgeview,4,2025-01-06,False,Hired
+1eee969d-1e22-4759-a24a-ad71f604afb4,Randall,Bryant,867.907.0739,Healthcare,Flexible,Adamston,2,2025-01-22,False,Hired
+5bc5c931-941b-43ff-bc78-3335ef2682fb,Linda,Harris,(641)658-0173x2046,Restaurant,Night,Port Cynthiaport,4,2025-01-11,False,New
+dc45190a-c90d-46b3-866b-17b6f1ee31a4,Troy,Norton,(327)678-0264,Warehouse,Night,Port Angela,3,2025-01-14,True,Hired
+8f10683e-7278-49e6-8cec-f41eea7b6bd0,Christopher,Stanley,(547)279-3443x3957,Healthcare,Morning,Margarettown,4,2025-01-06,True,Interview
+23e3bddc-0daf-48b1-8f83-0c701e33ef97,David,Shea,+1-679-725-8653,Warehouse,Night,Port Melinda,1,2025-01-04,False,Hired
+79a58262-f0c5-4466-9bad-a4af23a52fe3,Rachel,Cooper,547-293-3671,Retail,Night,Audreymouth,0,2025-01-12,False,Hired
+4877707c-1c02-40c4-9413-889fa11d3695,Karen,Stevens,001-810-926-2296x26825,Restaurant,Weekends,Perezbury,4,2025-01-16,False,New
+4c742f0f-cd02-4155-b747-b6ca72891e07,Eddie,Ponce,(675)435-4532x5530,Restaurant,Morning,New Hannahfort,4,2025-01-17,True,Interview
+45279ce1-5a19-4526-a910-af0821dc0c40,Jacob,Scott,(517)911-5531x9736,Restaurant,Morning,Debraside,3,2025-01-16,True,New
+11440370-8ffb-4ffe-8687-43622e84e438,Jennifer,Miller,001-824-386-4800,Retail,Evening,Norrishaven,2,2025-01-07,True,Interview
+62188060-61ad-4afd-86ba-cb8da6da7ade,Sandy,Morgan,2786841466,Warehouse,Morning,Gonzaleschester,3,2025-01-14,True,New
+02fd27a4-7d6b-4456-963e-e05ff094abe7,Angelica,Robinson,6603830055,Hospitality,Morning,North Justinshire,1,2025-01-08,False,Interview
+af64d61d-34e9-41f7-a0f6-6b49ec30bff5,Linda,Crawford,8938261094,Restaurant,Evening,Troychester,2,2025-01-18,False,Hired
+18b91fd5-1b6b-4d74-b004-4672afbf1d1d,Shawn,Foster,(833)256-5173x73825,Healthcare,Weekends,Stanleystad,1,2025-01-27,False,New
+d9af34fd-a1df-484c-9b04-620cab599194,Stacy,Valdez,(851)201-8737,Retail,Morning,Popeview,0,2025-01-29,True,Contacted
+a2142471-4508-491a-afe8-da8e60ecba5c,Brenda,Payne,001-491-218-2527x2559,Restaurant,Evening,East Stephanie,3,2025-01-05,True,Hired
+f53c3853-f909-4361-bd93-5e7a3b2c255a,Jeanne,Williams,001-558-840-7309x7161,Hospitality,Night,Reevesborough,0,2025-01-14,True,Contacted
+b347e251-24f2-4a89-a225-8924027238ec,Dawn,Gamble,(255)405-5219x9298,Restaurant,Evening,Port Jessicaside,2,2025-01-10,True,New
+99c7894d-3bc3-428c-af97-44d01cb1d8d5,John,Montgomery,6553445194,Warehouse,Night,Stevenstad,4,2025-01-01,True,New
+7d2e41a9-48b0-4958-8541-4762293f9539,Chad,Allen,+1-295-742-8104,Hospitality,Evening,Port Karen,4,2025-01-06,True,Contacted
+9930b807-3732-4581-bfee-50cf0ca140f1,Timothy,Thompson,979.325.6442x776,Warehouse,Evening,South Zachary,0,2025-01-25,True,New
+6a0a6a37-7983-459b-87d0-2c461df505ff,Walter,Ward,(432)917-4218,Restaurant,Night,West Ashleyburgh,3,2025-01-26,True,Interview
+7d8f8b16-f569-4849-bfd7-9d55b1d14604,Virginia,Hernandez,540.593.7418x479,Retail,Flexible,Jessicastad,1,2025-01-09,False,Contacted
+15cf15b7-0112-4f96-8602-0b7e7aacaee1,Brittney,Sullivan,(729)208-2145,Restaurant,Night,South Emilyburgh,3,2025-01-12,True,Hired
+bf6ab909-9e9a-4c68-8ec6-4b8b15c5484a,Susan,Vincent,(278)605-4169x42219,Restaurant,Evening,Port Maryfort,1,2025-01-19,True,Interview
+7e1dc779-d208-4dd8-b201-0ee879efff8e,Brian,Cochran,+1-679-267-0974x26519,Restaurant,Morning,Brittanyville,1,2025-01-29,False,Interview
+dc2ed3bc-00aa-4903-bc08-04af18d3a412,Sara,Cochran,561.729.9434x965,Warehouse,Night,Bradyton,5,2025-01-09,False,Hired
+c535ab88-f1fd-4f19-9667-1925e8a589a2,Manuel,Taylor,001-702-744-6310x73930,Restaurant,Morning,Reillybury,3,2025-01-04,True,New
+5ad5567b-bb2b-4ebd-9b4c-88172683d5be,Jesse,Long,(439)401-0473x635,Hospitality,Night,North Marialand,5,2025-01-12,True,Hired
+1417804f-1c83-4c05-8a17-e898f2f0e28b,Andrea,Carney,(645)643-4503,Healthcare,Weekends,West Latasha,1,2025-01-01,True,New
+63110bde-127c-48e3-b69d-bde85a3ac850,Jason,Miller,001-378-936-9847x665,Retail,Evening,New Rachelbury,0,2025-01-24,False,Hired
+52e38ba5-593e-454e-a170-ef1f5e5c5e6f,Donald,Rivera,(341)200-6053x84728,Retail,Weekends,Leeberg,1,2025-01-21,False,Contacted
+955505cf-deb7-406c-8e3b-a4fa21160dc2,Ronald,Wright,+1-944-955-2511x49415,Healthcare,Weekends,Port Jennifer,1,2025-01-01,True,Hired
+ae911081-12f6-4f6d-a266-ba0f2508bda2,Ann,Brennan,650.228.7692,Retail,Morning,New Cheryl,3,2025-01-28,True,Hired
+dc2da02e-4f71-4445-a309-51dc17a1c4cb,Ricardo,Mcdaniel,677-871-9004x26562,Warehouse,Morning,New Tylerfort,5,2025-01-25,False,Hired
+696c07bb-dbd7-4cad-bb8d-be6cf114ab0f,Kerri,Bradshaw,7517174239,Warehouse,Flexible,West Lance,1,2025-01-12,True,New
+a0a7050a-4b24-4198-8af0-1cc2138326de,Courtney,Day,771-742-5484x17541,Hospitality,Evening,Zacharymouth,5,2025-01-22,True,Interview
+bc4ff190-f888-4ff1-a5cd-eec4c4b06be9,Sean,Little,(572)667-8435x79404,Warehouse,Morning,Port Katelyn,4,2025-01-16,False,New
+f9d33591-c043-4b7b-a93f-37417fa367c0,Stephanie,Burke,833.575.3783x256,Retail,Morning,Shelbyville,5,2025-01-11,False,Contacted
+f137c964-2c40-42c6-bc29-1ff0e610ba6a,Franklin,Aguilar,001-954-421-1407,Retail,Morning,Roseburgh,0,2025-01-03,True,New
+dbf5f90d-fab9-40ac-b501-e6bea930852e,Kayla,Lee,379.487.7212x750,Warehouse,Evening,Bryanmouth,3,2025-01-13,False,Contacted
+84466e50-26d9-4fa1-a5f2-d81ef3ee789a,Emily,Kennedy,717.632.5927x96334,Healthcare,Weekends,Kathrynton,5,2025-01-18,True,Hired
+914de756-0982-4d01-88d8-077716205954,Lisa,Reed,+1-654-568-8689x93293,Hospitality,Morning,Browntown,2,2025-01-13,False,New
+1494d5b7-ca41-4ea8-b5ad-6e24751634f1,Angela,Brown,426.438.8660,Hospitality,Flexible,Geraldfurt,3,2024-12-31,False,New
+95035d82-d432-49a2-95b6-e2073c2bf783,Andrew,Pratt,563-448-2809x05356,Retail,Evening,East Justin,0,2025-01-08,True,Contacted
+eb4f270f-f213-47f4-97ca-70f42dedd473,James,Rodgers,+1-859-471-4773,Retail,Weekends,Clarkside,5,2025-01-23,False,New
+449892ea-3010-439b-80c6-d1479da586da,Timothy,Sandoval,001-558-328-3092x41471,Hospitality,Weekends,Sandraland,5,2025-01-04,True,New
+da19995a-c06d-41af-9514-7a6c51a06fa1,Danielle,Walker,+1-559-818-3037x155,Restaurant,Flexible,East Deborah,5,2025-01-13,True,New
+4a0c0634-b324-4937-bb8e-23621885c66a,Roy,Rodriguez,001-282-653-6521,Hospitality,Evening,North Michael,5,2025-01-22,True,New
+9d6d5f99-7f95-460b-b244-45cdd0cab623,Tim,Hill,933.225.8364x6633,Retail,Night,Williamsberg,0,2025-01-14,False,Interview
+c1a3ce5d-916a-4456-847b-552ff2a8af0d,Tammy,Kelley,694-742-4233x5720,Healthcare,Evening,Milesmouth,3,2025-01-19,True,New
+820ae93d-7a94-4f40-b9d5-550aff5f61ab,Ronald,Morris,(958)349-1410x1086,Warehouse,Night,Catherineland,1,2025-01-27,True,Hired
+3290c5a8-1911-4d7b-9d57-7dd379a7ba27,Tammy,Davis,300.385.7132,Restaurant,Weekends,North Brenda,3,2025-01-09,False,New
+879af84d-d28c-40db-92f7-be1d03fcc38a,Chad,Stuart,+1-977-530-2702x56751,Restaurant,Night,Port Jenniferhaven,3,2025-01-17,True,Hired
+318551f4-a1f2-48a9-b46b-b5c294ad26f4,John,Arnold,(621)664-7366x7578,Healthcare,Night,Jimmystad,4,2025-01-25,True,Hired
+84330097-6462-41ad-a649-7e2a17110d02,Colleen,Smith,619.704.7630x861,Warehouse,Evening,Rachelchester,5,2025-01-09,True,Contacted
+0c08e6ff-8354-49a9-b463-f0b051689653,Tina,Coleman,001-828-952-2913x1872,Hospitality,Night,Smithchester,4,2025-01-26,False,Contacted
+11272557-b376-4673-a306-518acb05e691,Joseph,Hall,8789335417,Warehouse,Evening,West Melissa,4,2025-01-18,True,Hired
+4e83eb61-7e47-4e2d-a84e-1f03f4506eca,Steven,Munoz,652.525.0135,Retail,Flexible,Rushville,5,2024-12-31,False,Hired
+813a106d-bd90-4357-8edf-eacdf140e879,Gerald,Hayes,(313)907-6284x164,Healthcare,Flexible,Port Jeffrey,1,2025-01-05,False,Hired
+b0b03283-546b-4c4f-9f55-1d11c6ad275a,Jill,Pace,3152305569,Hospitality,Evening,South Eddie,2,2025-01-16,False,New
+b5c57eff-a1b2-4e80-b24c-d2bf6825a341,Jessica,West,(616)304-5131x845,Healthcare,Flexible,Howellmouth,2,2024-12-31,True,Contacted
+eb20b2dc-b6e4-4aaf-99d1-262968ad5bcc,Nicholas,Taylor,(975)981-3598x2148,Retail,Weekends,North Samanthaland,5,2025-01-06,True,Hired
+b5a3be7b-2f2b-4e36-a371-96d722291617,Deanna,Benitez,968-313-1853,Warehouse,Evening,Cooleymouth,3,2025-01-20,True,Interview
+cf217d31-948c-41a6-b205-797a992ca12b,Tiffany,Duran,(717)507-9763,Retail,Morning,Millerview,4,2025-01-28,True,Interview
+1d723ff2-0de7-4e00-88a1-0fac8fa9cc0f,Ray,Moore,001-863-671-7667x31659,Warehouse,Weekends,East Eugene,2,2025-01-15,True,Hired
+567219c4-9366-468e-aa12-7a3737d247c5,Yesenia,Farmer,(696)535-3018x651,Healthcare,Night,East Bethton,0,2025-01-21,False,New
+f01f8c4d-fd46-4857-82c5-90b91c540cf4,Angela,Adams,+1-479-307-8997x38630,Restaurant,Morning,East Tiffanyville,3,2025-01-01,False,Contacted
+2b2d5c66-79d6-4549-9c9d-40b2c00f662a,Kerri,Campbell,+1-230-472-4700x837,Healthcare,Flexible,Johnstonfort,1,2025-01-13,True,Hired
+d98480cf-3e4d-4b7d-970b-46b77b5ab1f3,Anthony,Horne,+1-228-296-7209x35030,Retail,Evening,South Thomasview,2,2025-01-11,True,New
+03e5e9c6-aa08-492b-9ac0-5fd0a8e5a07d,Trevor,Nash,927.915.4030x3247,Restaurant,Weekends,Cherylmouth,2,2025-01-11,True,Interview
+b780a330-27b9-4226-8905-46fb992e7bdf,Michelle,Lopez,(993)511-2823,Restaurant,Flexible,Port Justin,4,2025-01-05,False,Contacted
+2175ef6e-d7d4-4d48-baf0-550cc40b97a5,Johnny,Hardy,(500)456-5380x25595,Warehouse,Morning,Aguilarstad,1,2024-12-31,True,Interview
+d44f9080-c091-48f2-a85c-3f22893e6160,Carlos,Spencer,001-404-564-0721x86113,Retail,Weekends,Sarahchester,0,2025-01-08,True,Interview
+ff52fbae-4ad4-4495-beb4-9f5844043da6,Jason,Brown,649-868-3009,Retail,Night,North Theresaville,5,2025-01-06,True,Interview
+d3cd4e3c-ceb0-409e-9eeb-4feaa6247127,Stephanie,Sanders,001-842-470-7699x41702,Hospitality,Morning,Port Susan,4,2025-01-03,False,Contacted
+98f88f47-98f7-452f-81ab-32dd4dc95133,Jessica,Sutton,352.778.5360,Restaurant,Evening,Haneyton,4,2025-01-29,True,Hired
+103e5a88-f3ad-4101-a6b7-945a2f757653,Jennifer,Mitchell,(366)221-0175x06322,Warehouse,Morning,East Andrea,2,2025-01-16,False,Hired
+f97ba835-e111-4f2f-b9d3-42d5ba178afe,Donna,Butler,001-714-656-3981x7656,Healthcare,Flexible,Michaelfurt,5,2025-01-12,True,Contacted
+e344da89-8736-4443-9983-d406c73d4926,Caitlin,Whitaker,288-516-5178,Restaurant,Night,Austintown,0,2025-01-27,True,Contacted
+b6d727ba-6954-4d47-b522-c9382c96980d,Henry,Shaffer,+1-556-546-0648,Retail,Weekends,West Robertstad,0,2025-01-09,True,New
+97746f30-c5dd-43ef-b729-59fa58269ce8,Zachary,Barnes,782-626-4236,Healthcare,Weekends,Connerton,2,2025-01-03,False,Interview
+a8401c36-7f0a-4605-9dd1-db407176db7b,Marie,Taylor,+1-871-512-5443x594,Restaurant,Evening,New Janetborough,1,2025-01-09,False,New
+46bfd1e8-7f31-4b4d-8cb3-79daba2edade,Christine,Smith,657.273.2279x037,Healthcare,Flexible,Kimberlystad,4,2025-01-25,True,New
+e04163cd-2ccb-4f29-a4e2-6384bacba006,Michael,Lyons,001-519-473-4231x16174,Restaurant,Weekends,Port Melissa,0,2025-01-28,True,New
+84cf8bd1-39c3-4d25-928a-27ec2581be30,Raymond,Price,249.422.8035x320,Restaurant,Morning,New Andrewburgh,3,2025-01-10,False,Hired
+19aa2a0d-75b4-457c-8e94-bce573331fc6,Jason,Glenn,979.424.4466x099,Healthcare,Evening,Port Catherine,4,2025-01-20,False,Interview
+a8d5e68a-fb96-402b-bdbf-c9cca4a279e6,Rhonda,Roberts,456-568-8341,Healthcare,Evening,Port Audrey,4,2025-01-25,True,New
+aac2579b-d236-401b-9cb0-e5e2bc399c5c,Cynthia,Hudson,(339)324-3177,Hospitality,Weekends,North Jessicaville,4,2025-01-23,True,Contacted
+af08422b-0a59-465b-acc0-eda7fa49357b,Jeremiah,Compton,+1-760-794-7510,Retail,Evening,Sawyerton,1,2025-01-20,True,Contacted
+f1b19cdb-8ed7-41e4-9a76-719848d9d9a9,Roger,White,6388032932,Warehouse,Morning,North Kennethchester,0,2025-01-05,False,Contacted
+df37c6e8-7109-448a-a6e4-6ad9f5879996,Joshua,Price,6134527853,Healthcare,Night,Ramirezstad,1,2025-01-22,True,Interview
+652d05f8-cca2-4a2d-b784-e30824f5aac1,David,Mack,+1-916-513-9599,Hospitality,Flexible,East Jon,1,2025-01-11,True,New
+46a1463c-b15d-4d84-aff1-b0cd0871e172,Cole,Smith,933-449-6511x2024,Retail,Night,Marqueztown,2,2024-12-31,True,Hired
+441eba2b-1e1a-42b2-87bd-50c86f010ab4,Michael,Martin,945.498.4688,Warehouse,Morning,Coreychester,1,2025-01-02,True,Hired
+8942eb28-fa40-450e-96d2-a46328a6b3f3,Sarah,Kelley,714-334-9202x82492,Restaurant,Morning,Brendanfurt,5,2025-01-23,False,New
+6fc4a5a3-12b0-4fe2-8cc0-e1478ac1cffe,Ashlee,Kane,(616)697-0630,Healthcare,Night,Lake Mary,2,2025-01-05,True,Interview
+e0924149-8395-446c-aa0e-41f230884b2f,Daniel,Mcdowell,(502)741-3177,Hospitality,Night,Rodriguezburgh,5,2025-01-21,True,New
+462a7ce3-d723-461f-9638-d834afd6f0e9,Catherine,Holmes,(547)260-2984x2330,Hospitality,Flexible,Williamsfort,0,2025-01-24,False,New
+2b5fb215-e575-488d-b82b-9ef8b983d0cd,Dwayne,Brooks,478.314.3890x91392,Healthcare,Night,New Aprilmouth,4,2025-01-21,True,Contacted
+72d2981b-1e47-4f7d-b73c-d48d32dd9c4f,Madison,Mccullough,309.502.1319x15435,Restaurant,Night,Smithtown,3,2025-01-27,False,Interview
+6fabd84e-73ce-408c-81c7-da441c39cdef,Emily,Brown,001-526-322-8625x8894,Healthcare,Flexible,New Charlestown,2,2025-01-29,False,Interview
+a51ca800-9d80-43e3-b3ca-5cb1bfb28bef,Kevin,Ruiz,(871)250-8971x2430,Retail,Evening,New Carl,4,2025-01-23,True,Contacted
+cffc4631-06a5-43b4-b639-15cd3cc61eba,Michelle,Brooks,866.774.5314x806,Hospitality,Night,West Shawn,5,2025-01-17,False,New
+a764f745-bc43-4f2e-85d7-1fb965729229,Brandon,Potts,866.661.2656,Restaurant,Evening,East Curtis,1,2025-01-23,False,Hired
+be5fdbc3-316e-4e9d-ad45-bec91b643ec0,Julie,Kaufman,001-540-854-6892x578,Retail,Night,Meltonhaven,5,2025-01-13,False,Interview
+d70ed241-ac50-4171-a6d7-52b6c14d1933,Bonnie,Campbell,+1-960-364-1166,Retail,Flexible,Pricebury,4,2025-01-26,True,Contacted
+47103a03-997e-4296-abc4-0318340f74c2,Rebecca,Raymond,+1-348-657-0234x113,Hospitality,Evening,Sarahhaven,1,2025-01-24,False,Hired
+31f886e8-23fa-4233-ac69-c1919d7ecbe9,Laura,French,(230)391-6694x72761,Warehouse,Evening,Port Shelleyville,2,2025-01-05,False,Hired
+a809fec5-d622-4d38-a956-7a3d44e670c2,William,Dunlap,720-936-7717,Healthcare,Night,East Mitchell,2,2025-01-14,False,Contacted
+08b0481d-a14d-4e07-bde9-03004349cde5,Kenneth,Meyer,+1-617-207-4786x226,Restaurant,Morning,Millerborough,3,2025-01-21,True,New
+4c33e7de-1ea6-49bc-a036-9822c82fdd7b,Jessica,Parsons,(338)308-7130x4084,Healthcare,Evening,Ryanfort,0,2025-01-06,True,Hired
+74312163-b7cb-4034-a28e-51e06b2b814e,Kevin,Kennedy,920.831.3289x1962,Retail,Morning,Mayoburgh,1,2025-01-05,False,Contacted
+bd54dab2-fe6a-4bb5-9054-f2fa3890b3c0,Bobby,Tran,540.843.0413,Warehouse,Morning,New Samantha,1,2025-01-11,True,New
+b186368c-9a6b-4214-baeb-d777ba4e531e,Jessica,Fowler,001-231-672-1323,Hospitality,Evening,Ruthville,3,2025-01-21,False,Interview
+3133b626-7643-4c7a-9e8b-e54e24beb307,Samuel,Green,(618)847-6186x114,Hospitality,Weekends,Tonyfurt,1,2025-01-03,True,Interview
+c1cb9fbf-956b-45a8-8ef5-f3f442f300dc,Gary,Miller,001-650-751-6416,Warehouse,Weekends,East Gerald,2,2025-01-15,True,Hired
+384fe623-0bc0-45f8-aa32-463e91f787f5,Brenda,Patterson,+1-600-651-0745x2616,Warehouse,Weekends,New Danaside,0,2025-01-28,True,Hired
+309c7773-a2fa-4c01-aeef-e3452aa924d6,Danielle,Wright,9429217276,Healthcare,Morning,Christopherville,0,2025-01-03,True,Interview
+a5e701e3-1c79-41fc-9004-9e3b23ceb5ca,Noah,Costa,(641)760-0478x3201,Healthcare,Night,Wendyton,2,2025-01-09,False,Hired
+f3ed380e-1131-46e5-8138-4ffc27392b61,Brittany,Frank,520-559-1605x62802,Hospitality,Evening,South Jeffery,2,2025-01-26,True,Interview
+4fac7cb8-023d-4db1-83ec-ec59f422a9c1,Bryan,Morris,670.926.4310,Warehouse,Night,New Jennyland,0,2025-01-02,True,Hired
+60b8e8ac-ea6c-421d-9354-95008414cef0,Gloria,Kent,568-472-9021,Hospitality,Night,Mcintoshside,2,2025-01-19,False,New
+65bb64e1-1426-448c-8c2c-32fdf2fcab7d,Andrew,Hunter,254-693-5827x045,Healthcare,Morning,Bennetthaven,4,2025-01-06,False,New
+cfc2e0c1-e871-49db-b0d4-9e20f4fe5f26,Kelly,Collins,(309)427-4825x0696,Healthcare,Night,North Kristamouth,0,2024-12-31,True,New
+b04cc8ae-284d-4175-8cff-7e3e0aa22d61,James,Hernandez,207-422-9767,Retail,Flexible,Lake Ronniefort,5,2025-01-01,False,Contacted
+8cfa06b9-5fb5-44f7-9560-2e18d5cb6259,Mackenzie,Reid,001-509-227-1586,Hospitality,Weekends,New Albert,0,2025-01-06,False,New
+35f2e077-1cfc-431b-bf5d-0c94101d5c07,Elizabeth,Torres,950.895.4108x2822,Hospitality,Morning,Port Andrewburgh,0,2025-01-07,True,Contacted
+69de4205-8ed2-43a6-aba0-cf86e015e05a,Alyssa,Rogers,001-665-232-3582x543,Restaurant,Morning,Davidfurt,3,2025-01-28,False,New
+54cf4521-8901-46e0-be2e-06bc1aa39df5,Pamela,Mcdonald,+1-427-489-3419x55554,Healthcare,Flexible,Clarkside,0,2025-01-08,False,New
+6f982384-1ec2-40fa-99d0-7846c2dde868,Darren,Weeks,932.483.8424,Hospitality,Flexible,Justinstad,5,2025-01-10,True,Contacted
+8957a2e6-0f83-4bc8-9225-04d357329194,Cheryl,Gardner,001-959-560-8070x253,Hospitality,Flexible,Port Melanie,5,2025-01-01,False,Contacted
+8adff624-c651-4b40-8f1a-bc49f0ae6a0c,Daryl,Dunn,(462)918-9517,Restaurant,Evening,Lake Barbara,5,2025-01-05,True,Contacted
+ab5767cb-24a2-4cbc-9273-ea3ad9f1d55b,Corey,Smith,648.587.9805x37820,Healthcare,Night,Gonzalezfurt,3,2025-01-24,False,Hired
+47118739-fa23-451c-a07f-c3c537bf24a1,Amanda,Erickson,9634099385,Retail,Morning,Millerfort,0,2025-01-14,False,New
+917b25c3-8114-44b9-849f-8c9115704266,Raymond,White,905-865-6266x52641,Warehouse,Weekends,Fullerhaven,3,2025-01-07,True,New
+29ee4ec7-bf5b-49c9-963c-c0f866d2b353,Adam,Butler,377-564-6392x49627,Warehouse,Night,Houstontown,4,2025-01-17,False,Contacted
+6e06e0ef-dbee-42cf-baa4-7b099013e7c4,Michael,Miller,+1-919-801-9994,Restaurant,Evening,East Margaret,5,2025-01-09,True,Contacted
+ecf5340c-04b9-48c2-ac84-bd5e8668543f,Larry,Villanueva,335-488-7843,Restaurant,Night,Michaelhaven,4,2025-01-25,False,Contacted
+ae7a4a73-9409-46e9-94e5-94518ed45e59,Heather,Compton,563.470.6581,Warehouse,Evening,Stephanieborough,0,2025-01-29,False,Interview
+3975f4e3-183f-409d-8c0c-d6069e09dc67,Rebecca,Smith,720.574.6541,Warehouse,Morning,North Christopher,4,2025-01-09,False,Contacted
+2cae4b5f-df44-4ae8-9908-3e63f8e00bd3,Caroline,Hancock,001-913-929-0504x78312,Hospitality,Flexible,Port Hunter,0,2025-01-16,False,New
+38666e6a-c5a1-4874-8324-caaf1c8a52c2,Chad,Wiley,+1-908-994-7636x92797,Retail,Flexible,South Jameschester,4,2025-01-07,False,New
+1cc407c2-4d70-485c-96d6-f73fd3369c44,Tonya,Jensen,(845)220-8538x25498,Warehouse,Weekends,Johnsonfort,4,2025-01-01,False,Interview
+29039c10-102c-4c39-a03a-677145220e20,Ralph,Juarez,340-557-0455,Hospitality,Night,South Christopher,0,2025-01-02,False,Interview
+5593afc7-091a-49a2-a6cb-bd1d418a5849,Cassandra,Taylor,(289)397-0322x567,Healthcare,Flexible,East Jessicafurt,5,2025-01-06,False,Contacted
+2264a3f2-4127-4ea7-b85c-c358180d3d8c,Brandon,Robinson,437.403.7939,Restaurant,Flexible,Port Marcus,3,2025-01-02,True,Contacted
+267da675-0f64-4edb-ad4b-b4a48825bc6f,Justin,Wright,218.606.0443,Warehouse,Night,Port Johnberg,4,2025-01-26,False,Interview
+a543b26d-32cd-46ce-ab67-171e4fac5c8c,Jason,Ellis,280.987.0487,Healthcare,Morning,Port Williamtown,3,2025-01-23,True,Contacted
+3aca2b2f-e61d-4e77-8a14-3524f7b5a0b8,Robert,Elliott,001-381-298-8652x515,Healthcare,Evening,Port Masonmouth,5,2025-01-13,False,New
+b5e23272-5573-456d-b3ad-41926a53d159,Marissa,Smith,001-567-423-4569x400,Warehouse,Night,Gregorystad,1,2025-01-08,True,Hired
+2c2d709f-25e8-4360-bc88-0cb30b1381a5,Elizabeth,Contreras,219.375.4014x1069,Retail,Flexible,South Bradyport,4,2025-01-01,True,Hired
+2b5ed2d9-2192-49ad-9cf9-9b5dcd7ed123,Kimberly,Tucker,717-592-4853,Healthcare,Flexible,South Danielshire,4,2025-01-03,False,New
+c2e0c091-bad9-42e1-9233-24a433f1430c,Nicholas,Black,001-431-571-0570x2780,Retail,Weekends,Christopherstad,2,2025-01-06,True,New
+3b47a14c-5501-4125-8367-a7a937479519,Matthew,Perez,9794974801,Restaurant,Weekends,Perryport,1,2025-01-11,True,Contacted
+074387cb-d323-4576-8db5-b634695220d9,Monica,Gaines,408.594.7066,Hospitality,Night,Sandersstad,0,2025-01-24,False,Interview
+71c3d3b7-f863-46af-b705-41cbcb9f4d28,Ray,Diaz,(740)654-7847x559,Retail,Night,Archerfurt,1,2025-01-04,False,Hired
+add0299e-722d-4550-8013-77b65fdfee5a,Thomas,Robinson,(720)356-5285,Warehouse,Evening,Andersonton,4,2025-01-23,True,New
+0b1d57fc-4714-4930-9049-69078e955454,Patricia,Myers,959-423-5461,Restaurant,Morning,Davisburgh,2,2025-01-12,False,Contacted
+1d66071d-cfd4-4fdb-8b92-4f56370333d3,Jessica,Vazquez,001-571-639-3583x96682,Restaurant,Flexible,Port Marktown,1,2025-01-07,True,Contacted
+6751555d-ebcb-407e-a4f1-d22a06738f35,Manuel,Webb,001-973-943-9927x62475,Warehouse,Morning,North Stephanie,5,2025-01-17,True,Hired
+644af10a-60c6-4264-9e5c-9f2ee4b7cbc4,Austin,Wilson,(494)284-8527x2501,Retail,Flexible,Henryfort,3,2025-01-04,False,Interview
+d2c48366-9baa-45b2-9496-84a97c61440f,Shannon,Reeves,001-700-942-2397x7394,Restaurant,Flexible,New Kevin,2,2024-12-31,False,Contacted
+afdb5a45-563a-4b11-afac-73a0c5a4269f,Julie,Murillo,(791)635-6214x3161,Retail,Weekends,West Dillon,0,2025-01-11,False,Interview
+f5f275d9-c9c3-4fb5-bbdc-19a292dbfc56,Tyler,Mills,674.601.6834x3690,Restaurant,Night,Garrettmouth,2,2025-01-13,False,Hired
+fd7655ae-d31b-4693-b5a5-21d27338ccb6,Joshua,Sparks,7346895863,Restaurant,Flexible,North Veronicaberg,0,2025-01-29,True,Hired
+b4f6ad50-38b1-470d-b2ff-39977ba70e89,Tina,Stout,6822466769,Retail,Flexible,Annetteberg,0,2025-01-22,True,Contacted
+6346a3f4-f889-4890-a377-d49263fde08c,Andrea,Cox,(633)639-3886,Healthcare,Weekends,Amandaport,1,2025-01-23,False,Hired
+beaa8e28-86e6-488b-a304-5ab993b8c4f1,Sarah,Ferguson,470.456.4436x1555,Retail,Weekends,Delgadofort,2,2025-01-26,False,Interview
+69f0c4db-a0fb-4767-82e2-e1c771a8674a,Brandon,Gill,956-389-3480x139,Healthcare,Morning,East Joseph,0,2025-01-26,False,New
+7e2d1708-730f-4de1-9144-ea8f85f9acc9,Edward,Terry,922.442.3690,Healthcare,Weekends,East Jamesberg,4,2025-01-27,False,New
+157b18b2-90ec-4f49-8616-d6be88691e3c,Melinda,Garcia,230.615.3043x85532,Retail,Weekends,Kyleborough,3,2025-01-01,False,Contacted
+0dc3b60c-4857-4d8a-a92f-b2d968b14181,Mindy,Mcclure,001-990-484-5449x1188,Hospitality,Flexible,Port Jacob,3,2025-01-18,True,Interview
+0e35c712-30cf-408d-bb7e-d5b923455704,Barry,Snyder,001-757-298-3950x053,Hospitality,Night,South Courtney,3,2025-01-03,True,New
+27361620-58f8-4495-b09b-2bb0ec11461c,Yvonne,Wilkerson,(342)248-9468x33433,Retail,Evening,New Waltermouth,5,2025-01-07,True,Hired
+fe5469c1-5295-40c0-9606-6d0ad66ca0eb,Stephanie,Ferguson,404-861-9444,Restaurant,Evening,Nguyenview,1,2025-01-19,False,Hired
+ed629dd2-cf05-4798-b7ae-7d9daa0d85fd,Pamela,Henderson,763-321-7090,Warehouse,Evening,Lake Alexis,5,2025-01-05,False,New
+6f464939-1d1c-43e0-b6ad-468ae1abd81d,Jessica,Wilcox,(981)412-0850x01991,Warehouse,Night,Jenniferside,5,2025-01-03,True,Interview
+214f474d-1ec3-41ad-8c14-db9dd8a86304,Daniel,Smith,223-759-9555,Retail,Evening,Port Christinemouth,1,2025-01-19,False,New
+05aa3663-3095-41a2-ab39-5da8bf7d2802,Jeremy,Smith,3736590734,Warehouse,Weekends,West Lisa,3,2025-01-19,False,Contacted
+3e4842e5-afc8-451f-8f2d-3e9cb18b1b79,Kayla,Long,770-297-0539x510,Healthcare,Flexible,Edwardsland,5,2025-01-28,False,New
+fa09613e-b3de-4499-a23b-7d02dee67e7f,Alexandria,Stokes,(733)628-5000x2953,Healthcare,Weekends,Rileyshire,2,2025-01-22,True,Hired
+4d124482-a0d1-449a-bc39-70a5a1af6192,Claudia,Reynolds,782-572-2576x5168,Restaurant,Night,North Angel,1,2025-01-18,False,Contacted
+a76078eb-e550-4b78-b2b7-9fe48b8d0407,Catherine,Jimenez,+1-333-367-7319x45851,Restaurant,Morning,Jasonburgh,3,2025-01-29,True,New
+78bf77c4-f9fb-4c50-ab2c-3b89c4739889,Antonio,Reed,+1-479-830-6054x1044,Hospitality,Night,Caitlintown,3,2025-01-22,False,New
+0a197da0-9dd0-46ed-a93c-e1c25e5f6a99,Jared,Melendez,001-446-836-5226,Retail,Morning,Peckchester,1,2025-01-11,True,New
+7509fcc6-d99b-43f7-8cab-a101b6adc7bb,Daniel,Ochoa,+1-946-971-5842x818,Retail,Flexible,Whiteshire,2,2025-01-15,False,Interview
+32e7ee7c-4528-4d81-8129-0cd67d2318f8,Kristin,Moore,2063337925,Retail,Evening,East Monique,5,2025-01-26,False,New
+124b03d0-f2eb-4edf-a475-9d42c1c55ba5,Justin,Carr,(231)865-8678,Hospitality,Weekends,North Brooke,2,2025-01-03,True,Interview
+48e21261-f625-4155-b435-f08d6cbdae5f,Kyle,Mclean,771.685.3633x98857,Warehouse,Morning,New David,1,2025-01-09,False,New
+5300b5d6-d291-42ff-81a9-90d70a4e047d,Joy,Jones,838.753.0429x27764,Healthcare,Flexible,Lake Loriton,5,2025-01-19,True,Interview
+2a36823c-aca5-4b3c-a9d7-a936251daf21,Laura,Montgomery,(536)286-5798,Hospitality,Night,Mitchellside,4,2025-01-01,False,Contacted
+fed42b07-6140-4dee-8242-302f5cd4ab63,Valerie,Anderson,001-704-642-0154,Healthcare,Weekends,Ortizfort,3,2025-01-21,True,Hired
+87c9c1e1-da2d-4828-a34b-e6302531fef5,Michelle,Ramirez,001-632-868-3257x6941,Restaurant,Night,North Anthonyville,3,2025-01-14,False,Contacted
+68243cef-7742-4edd-8015-a6b459e5543d,Roger,Thompson,3413948754,Hospitality,Evening,South Stacybury,0,2025-01-15,True,New
+24a53e52-d64e-4a35-b072-bd6e49ffded4,Michael,Gross,(268)931-9430,Retail,Evening,Lake Michelleport,3,2025-01-19,False,Contacted
+727aad37-e590-4841-9d08-f04e2587bca0,Jeffery,Thomas,970-817-4416,Warehouse,Night,South Jillport,1,2025-01-09,False,New
+a80d3a14-5161-4c0d-9c32-c8e317607ef2,Scott,Jones,001-502-989-8530x484,Warehouse,Morning,Lewisfort,0,2025-01-09,False,Interview
+4afd0087-4651-4a90-8aca-74850de0e880,Marc,Lester,+1-505-667-9049x354,Restaurant,Flexible,Lake Jamieborough,4,2025-01-24,False,Contacted
+e5cb60eb-f42b-49e0-a134-d20336760b65,Eugene,Young,755.873.5971x806,Healthcare,Morning,Carneyberg,4,2025-01-28,True,Hired
+86617b18-0ca2-4d9a-9de2-c732f7148f2d,Michele,Moreno,001-353-581-9958x479,Warehouse,Morning,East Samanthabury,4,2025-01-18,True,Contacted
+2e755f0c-e824-4b9b-bf12-f31f174af835,Peter,Garcia,001-312-861-4026x392,Hospitality,Morning,Brianstad,1,2025-01-10,True,New
+1c13ba76-5838-44d3-ae10-3f0a01931f22,Dustin,Jones,001-611-860-6416,Warehouse,Night,West Jerryside,3,2025-01-06,True,Interview
+a06d48a9-3633-4c97-b520-d049ad9cf5f6,Brian,Berry,001-892-450-7997x27929,Restaurant,Flexible,West Brandonchester,1,2025-01-09,False,New
+d0ff1bf1-2566-4113-a073-658768f836d9,Benjamin,Spencer,(872)207-1689x116,Warehouse,Weekends,West Sean,5,2025-01-14,False,Contacted
+fd531933-ec56-4d27-8455-8e63c164b176,Joseph,Black,3947001914,Restaurant,Flexible,Johnsonmouth,5,2025-01-12,False,Hired
+729c30b4-8af1-486e-8a5a-6360e48eae03,Christopher,Valentine,001-208-500-1136x47954,Retail,Flexible,Kathrynport,3,2024-12-31,True,New
+65d04780-d9e1-4ce4-acaa-cbd11d547020,Peter,Cole,+1-657-756-6206x5151,Retail,Weekends,Jeffersonview,5,2025-01-05,False,Interview
+20e48f11-27b8-4cc2-bbc8-ceb244826e5e,Cody,Cross,(332)359-0636,Warehouse,Night,Patriciabury,3,2025-01-24,True,New
+cbff6d07-5921-4d6a-92ef-100ce08f3239,Megan,Mullen,(244)680-9484,Warehouse,Morning,Robertfurt,3,2025-01-13,False,Interview
+0813b01d-c0af-4aef-bfd8-a4194f79ee62,Emily,Baxter,958-852-6458,Hospitality,Morning,Clintonfort,0,2025-01-03,False,Interview
+fa4fefe5-047a-4002-bb66-3f19c67d0766,Jessica,Lee,407.949.8566x1927,Hospitality,Morning,Port Elizabethtown,0,2025-01-19,True,Hired
+55338040-2248-45f3-91e1-a0bd1e1ad4c4,Jessica,Thompson,492-906-9248x18658,Retail,Weekends,Hillland,3,2025-01-25,False,Hired
+0d9fb63f-90b2-4b89-8537-e509729d4a15,Brandy,Jones,(961)759-0687x71623,Hospitality,Night,Nicholsonstad,3,2025-01-29,True,New
+e25d1611-eb14-4301-a292-ef3784ba84ee,Daniel,Sanders,208.268.4543x465,Hospitality,Weekends,Weavertown,0,2025-01-14,False,New
+7a892ab4-f651-48cf-af1b-453a8f4911e4,William,Nguyen,6953668937,Healthcare,Morning,Richardsonburgh,3,2025-01-09,True,Contacted
+8338f2ef-b961-4fd2-8c82-5526ee43f80c,Jodi,Figueroa,976-202-8380,Warehouse,Weekends,Andrewchester,2,2025-01-01,True,Hired
+1a1fb5f6-2eb4-4186-9ad8-61131236e6b4,Victoria,Romero,+1-594-990-2894x45560,Hospitality,Weekends,Johnsontown,0,2025-01-04,True,Hired
+7f7f8edd-9c15-442a-9fc0-fcf4b159332e,Carla,Stevens,355-994-3621,Warehouse,Weekends,Brownstad,3,2025-01-29,True,Hired
+aed7305d-baa7-4a1c-a3ea-1510582d4b33,Stephen,Meadows,559-392-1150x3573,Warehouse,Flexible,Peterston,4,2024-12-31,True,Hired
+006418e7-341e-4306-a52d-16abdbf16e97,Anthony,Henderson,550-859-9782,Hospitality,Evening,Lake Wanda,5,2025-01-18,False,Interview
+0842b3cd-3a57-40fe-b4e5-a4f3642367a5,Sharon,Johnson,001-404-258-4496x5375,Retail,Evening,Johnbury,5,2025-01-13,True,Interview
+b58ff281-4df8-4604-8bda-1d4996091ecc,Patrick,Davis,001-930-496-7126,Restaurant,Night,Stacybury,2,2025-01-23,False,Hired
+4f262bd3-f290-48ca-9f8c-1d0244496fc4,Victoria,Mitchell,947-311-2538x2198,Warehouse,Flexible,North Katrina,1,2024-12-31,False,Hired
+41f8fcd6-5f6a-4c11-a756-7580b401fe88,Sarah,Davis,(626)365-2471x4861,Hospitality,Weekends,Melaniemouth,3,2025-01-23,False,Hired
+8ecda1f6-0491-49aa-bf13-557a908bcae8,Erin,Garrett,+1-370-454-0483,Warehouse,Flexible,West Tinaville,0,2025-01-26,False,Contacted
+324e6bd8-c55a-422c-a4ab-8ef3d62c3374,Kimberly,Hill,954-226-8066x922,Hospitality,Night,Davismouth,5,2025-01-21,False,Hired
+494c9370-21c3-43e3-8a51-d1b20d824656,Julie,Davenport,001-607-958-6077x49344,Healthcare,Evening,Port Peterborough,4,2025-01-18,False,New
+2fec769c-33b4-4310-87c0-da488be7fb2e,Eric,Clark,5674268411,Warehouse,Night,New Charlesborough,1,2025-01-04,False,Interview
+c9f93a4a-336f-4d58-85da-02a5cf1b9906,Julia,Shaw,+1-910-852-1665x6213,Hospitality,Weekends,North Louisside,3,2025-01-05,True,Contacted
+7d3e45cb-20d1-4c40-8486-68a9a7e673d4,Brianna,Huffman,408-258-5297x01025,Healthcare,Flexible,North Johnview,4,2025-01-03,False,Contacted
+73eb303e-6d7a-40c8-89d0-a7f7f4c509a8,Ronnie,Smith,(554)841-9387x49490,Hospitality,Morning,South Deborahberg,0,2025-01-04,True,Contacted
+918e8f74-6a0f-49c0-9da7-a9fa08ea279d,Justin,Mendez,+1-240-738-7470,Restaurant,Weekends,Adamfurt,5,2025-01-17,True,New
+b790db8d-8fbf-4d6c-a4d0-de3d7fd51a6d,Chad,Ballard,+1-893-683-5677x7380,Retail,Night,South Robinville,2,2025-01-18,True,Hired
+c196b275-146f-4907-8e4a-1771143633c1,Gabriel,Rush,(439)242-0836,Hospitality,Night,New Casey,5,2025-01-10,True,Contacted
+f4db10da-cb2a-4e7c-93cd-86cc43160ef7,Shawn,Joseph,+1-227-583-6788x524,Warehouse,Night,South Valerietown,1,2025-01-29,False,Interview
+78f7290d-a022-42d4-b406-80840136732a,Wesley,Young,648-419-8881,Hospitality,Night,Joneston,4,2025-01-29,False,Interview
+db4c3ca7-18a2-499d-9051-2077cec7feee,Vicki,Porter,787.980.6316,Retail,Morning,Ryanview,5,2025-01-04,False,Hired
+11485131-1be9-4656-8102-a71cee50b6b5,Bruce,Brown,789.306.2283x84537,Restaurant,Flexible,South Larry,2,2025-01-05,True,Interview
+33c1e51a-8b04-467c-8700-839f4e8e9c83,Michael,Harris,+1-222-364-3973x396,Warehouse,Night,Howardmouth,3,2025-01-09,False,Contacted
+ec02ba13-a1ec-4570-9786-97599a8a357c,Shannon,Rose,(212)959-5683x4088,Restaurant,Evening,New Kyleport,3,2025-01-08,False,Contacted
+e297ec65-b25f-496c-81b2-b59a7a76d5bc,Bradley,Haynes,425.383.6218x16158,Restaurant,Morning,Grahamtown,0,2025-01-03,False,Contacted
+af22ce87-8299-467f-b45b-773fb2c37659,Ann,Wilson,780-277-7883,Healthcare,Evening,Hansontown,3,2025-01-23,False,Hired
+3832ad30-2b4f-4986-bd84-eff6c744c9be,Jared,Burke,+1-854-580-1995x99117,Warehouse,Morning,Boyerfort,2,2025-01-22,False,Interview
+4875d3e8-265d-4102-ac04-bcd2f52f59a7,Karen,Gonzalez,+1-893-302-9769x569,Restaurant,Evening,Jimmystad,2,2025-01-29,True,Hired
+0268cf73-3c99-4083-8fde-dcf8c0c03d12,Jerry,Mason,(950)859-4603x60037,Retail,Night,West Williamberg,3,2025-01-05,False,Hired
+256d817e-d6a1-4faa-bea6-6fcfec19f311,Jason,Goodwin,001-272-782-3693x8094,Hospitality,Flexible,West Wesley,4,2025-01-19,False,Interview
+854b3b8a-920d-4742-a260-56cfd414a5ad,Christine,Lopez,890.805.4561x97875,Restaurant,Weekends,Paulmouth,1,2025-01-11,True,Contacted
+20841363-aa24-4090-80eb-cac05328beac,Mark,Hernandez,9775138121,Restaurant,Flexible,South Jasonside,2,2025-01-16,True,Hired
+fb619ec5-0b24-423d-9f7f-a906ac2dd0a0,Amy,Lloyd,+1-526-908-9131,Hospitality,Night,East Kenneth,0,2025-01-23,False,Interview
+636735af-5410-49b4-9d08-f7aaeaf50900,Kari,Lee,+1-589-552-0651,Retail,Night,North Tracyton,5,2024-12-31,False,Hired
+5f949171-7c5e-4d5d-b945-f9c42b8612ef,Sierra,Wiley,885-329-5188x19230,Warehouse,Night,East Raymondport,2,2025-01-29,False,Contacted
+5dbc4d83-a6ed-4d3b-b95d-e319ec178a5d,Jeffrey,Thornton,518.497.3324,Healthcare,Weekends,Stephenside,1,2025-01-11,True,Hired
+07bb6a9c-ec5b-477e-b7b1-3c32dcc56594,Christopher,Mitchell,(802)694-3863,Restaurant,Weekends,East Cassandra,3,2025-01-06,False,Interview
+726761d4-7062-40b3-9f73-c6c087e1d303,Shelia,Hudson,(877)883-8414x882,Retail,Morning,Lake Benjaminview,3,2025-01-05,False,Contacted
+2274f326-244d-4c05-b152-e26a747dc607,Raymond,Bauer,897-389-9110x887,Healthcare,Night,Port Jamesbury,3,2025-01-06,True,Contacted
+0905de37-111b-4bfa-b6c0-6d4da2d2b22f,Jennifer,Horne,747.910.8786x27940,Healthcare,Night,Castanedabury,3,2024-12-31,False,Contacted
+5f9a9ebc-850d-4cd2-956a-a96dccb36e4b,Kayla,Cummings,5313116972,Healthcare,Evening,East Brianmouth,0,2025-01-02,False,New
+581f1b72-38a7-4fb2-933a-a60ff94cb1fd,Tyler,Jackson,+1-501-486-9800x910,Restaurant,Night,East Shannon,0,2025-01-13,True,Hired
+f20a6dda-1bc2-457b-8c1b-5bdb216a11b6,Kristi,Williams,+1-462-277-0497x256,Retail,Night,South Randall,4,2024-12-31,False,Hired
+56e81f4b-3ff5-435e-ac11-b78b551f922a,Stephen,Wolf,(998)459-6289,Healthcare,Night,West Brandon,1,2025-01-28,True,Contacted
+71f27127-d241-4566-bf3d-35a3fe6f8129,Scott,Fisher,(411)396-1307x546,Warehouse,Morning,North Laurie,1,2025-01-14,False,Hired
+f2740d33-43c8-419d-b3d8-51e27b1bd054,Omar,Park,828-765-8121x33074,Restaurant,Evening,East Kristen,1,2025-01-24,False,Hired
+defafbb9-6a8c-4673-98b6-2e904a3fe056,Eric,Nelson,485.691.1488x4091,Retail,Morning,Lake Jasonberg,3,2025-01-27,True,Hired
+436d23a9-2950-4e32-8ce7-148c3e559e67,Sarah,Porter,587-936-6701x088,Retail,Flexible,Samanthaport,4,2025-01-13,False,Interview
+c6417327-9c82-4a8c-9849-32829da9d675,Jack,Green,566-603-2578x6640,Restaurant,Weekends,Davisberg,0,2025-01-15,True,Hired
+eb918273-f12b-43e0-a80f-5a36dac09cc2,Keith,Elliott,4145421229,Retail,Night,Hollyton,4,2025-01-22,True,Interview
+5ed1d92a-bd38-431d-93bd-601cd2583083,Eric,Odom,001-578-757-6992x656,Hospitality,Evening,Lake Jessica,0,2025-01-17,False,Contacted
+ea651c4e-2591-4926-83df-9828c81d888f,Zachary,Hart,949-354-0197x09355,Retail,Evening,West Samuel,3,2025-01-16,False,Hired
+9de8353c-cab5-4a8d-a70b-b9c484b26ff2,Sheryl,White,+1-559-656-4841x109,Healthcare,Morning,South Devinmouth,0,2025-01-10,True,New
+24a0044d-3e08-4197-8ff3-867eb66d7e1e,Valerie,Hamilton,731-984-1309,Healthcare,Evening,West Cheryl,5,2025-01-18,False,Contacted
+6d383c4d-11c3-48fe-86b2-62adf5f00f0e,Jeffrey,Lopez,(318)653-4117,Healthcare,Morning,Annaberg,3,2025-01-11,False,Contacted
+ce20b61f-33c3-4c48-ac0f-5946a47b7a1a,Joshua,Bailey,6489217102,Healthcare,Evening,West Angela,3,2025-01-20,False,New
+a74fb95d-251b-4dd9-903e-e73af88f8507,Angelica,Crosby,3289517879,Healthcare,Flexible,East Emily,0,2025-01-29,False,Interview
+7f9a7071-c734-425f-b61b-f53c07e3dff0,Jeanette,Perez,+1-699-346-5889,Warehouse,Weekends,New Billside,1,2025-01-28,True,Interview
+3bf58b12-ea6d-45b4-866a-984b9a9bb62b,James,Owen,001-945-246-0433x3960,Restaurant,Morning,Lake Feliciaberg,1,2025-01-02,False,New
+8690a170-0fee-4aba-9c23-eceac97a56c5,David,Schmitt,(468)559-1579,Restaurant,Morning,New John,1,2025-01-02,False,Interview
+3da6b7e4-ae0a-4e6f-ab9b-09d82723f461,Christopher,Berger,+1-536-641-9268x672,Hospitality,Weekends,North John,3,2025-01-12,True,Contacted
+0cd05b7e-9e72-4b73-b962-3617e0a23f6a,Anthony,Henderson,(404)583-9839,Restaurant,Morning,Patriciatown,2,2025-01-23,False,Hired
+528c7f27-ee95-46b1-ae72-acf912235a8a,Matthew,Young,4103025953,Healthcare,Morning,Lake Michael,5,2025-01-11,False,Contacted
+8a69ea8c-9bb9-418c-82d4-1c6bd2fb18d8,Sandra,Ritter,966-502-5765,Restaurant,Night,Aliciafort,5,2025-01-10,True,Hired
+bc986c88-3db7-4485-bf94-d8ed2505f187,Robin,Garza,296-264-3110x84000,Healthcare,Flexible,North Jeffrey,4,2025-01-13,False,Contacted
+9a329c7d-426e-4dcc-b007-4f48ad0b7fd1,Ethan,Baker,531-962-8043x488,Hospitality,Flexible,Amandachester,0,2025-01-28,True,New
+d3cc02e2-b20e-4b57-9098-c0edc82de2ac,Cheryl,Ritter,001-380-435-4351x014,Hospitality,Weekends,Marquezstad,5,2025-01-09,True,New
+e767a4d0-8323-42fb-ae62-7ab38f24836a,Julia,House,+1-938-736-9060x44891,Healthcare,Night,Lake Ebonymouth,1,2025-01-04,True,Contacted
+989fed1e-1150-47e1-87e0-adc8491eb822,Kelsey,Carson,925-534-7674,Warehouse,Night,Jenkinsview,1,2025-01-19,False,Interview
+3ddf3d0c-ac18-4b4f-8602-67745b653c23,Matthew,Love,858.997.2885x4969,Warehouse,Weekends,New Sharonshire,1,2025-01-12,True,Hired
+9a8122e4-2d95-482b-8058-14fe0794f053,Robert,Manning,(356)366-3773x332,Retail,Night,Melissashire,3,2025-01-08,False,Contacted
+325b8ce5-7323-4187-975c-b4f4708117cb,Tammie,Wright,(423)976-6220x6163,Retail,Evening,North Nancy,4,2025-01-08,True,Contacted
+c9b9a78d-dba3-4ce0-aae8-935897f7fca0,Janice,Nelson,8193137501,Hospitality,Night,Garciafurt,2,2024-12-31,False,Interview
+5e02d638-2b0b-4b46-bab6-94c82f628ead,Jessica,Bradford,+1-483-335-0623,Retail,Night,Veronicamouth,2,2025-01-02,False,Hired
+7f2ca125-9e01-4e5e-89fb-08b3ed912ec6,Barbara,Mcintyre,830.793.3844x65209,Hospitality,Weekends,West Deborah,3,2025-01-09,False,New
+759abaf8-5a6b-4d8f-accf-b60e18c4d917,Ronald,Harris,+1-492-610-3490x66885,Healthcare,Evening,New Lance,2,2025-01-13,False,Hired
+485a6e0b-de67-463d-a68a-fef19be8e2ab,Barry,Landry,+1-463-573-8380,Warehouse,Weekends,Cassandraton,0,2025-01-07,False,Hired
+51483a71-2b0e-4d1b-8fb6-b3cb796de5d1,Tamara,Ayers,(753)265-7005x3937,Warehouse,Morning,Ginaborough,4,2025-01-17,False,Contacted
+e3471777-7d48-47ed-94e4-bcc6ccf225c5,Jessica,Murphy,514-447-7157,Healthcare,Night,South Katherinebury,2,2024-12-31,True,Hired
+bdcffbfe-a721-4da5-a053-5453413bdfbe,Stephanie,Smith,9996669181,Restaurant,Flexible,North Vanessachester,4,2025-01-06,False,New
+37875615-6ac5-4196-bd58-c7dd5c0e5295,Timothy,Arnold,5858073347,Retail,Night,Sullivanport,0,2025-01-06,True,Interview
+ffbfe179-d69f-49e7-ab13-04e001f89703,Audrey,Davis,5445416568,Retail,Weekends,Juantown,2,2024-12-31,False,Interview
+941924fd-6d08-4e86-8d7a-c2f077dcb84d,Christopher,Osborn,584.771.9273,Restaurant,Evening,Murphytown,3,2025-01-05,True,Interview
+8b4a8e23-5228-4018-b8d4-dafec0f9feba,Jessica,Cooper,+1-740-434-7889x35617,Healthcare,Evening,Walterfort,1,2025-01-19,False,Interview
+a15e2b5d-7b08-4170-8bc0-4e6ccd580c4f,Patrick,Ferrell,697-499-6685,Restaurant,Night,North Heather,5,2025-01-19,True,Hired
+619b2f71-3bd8-462f-9229-6afc33d099ae,Amber,Hernandez,321.213.8202x33124,Hospitality,Flexible,New Mitchellport,5,2025-01-05,True,Hired
+db49ce85-2e71-4819-ba91-64d0ffb886df,Ricky,Fowler,(457)899-5683x22791,Hospitality,Flexible,Isaiahbury,5,2025-01-16,True,Interview
+0fb56fda-a61c-47d5-b1fd-e5745a517ae3,Micheal,Travis,2998787874,Restaurant,Evening,South Stacy,3,2025-01-09,False,Contacted
+8af0edba-992c-47dd-a3ee-2dc915784502,Brian,Kennedy,479.590.0969x3048,Warehouse,Evening,Lake Cynthia,5,2025-01-28,False,Hired
+6505e05d-2e64-4288-9bac-4383239e84ce,Jacqueline,Flores,980.490.3704,Healthcare,Weekends,Brianchester,3,2025-01-05,False,Interview
+6482f793-d496-4db3-8500-d7a4ab75f464,Corey,Kennedy,001-950-902-7070x5654,Warehouse,Weekends,North Michaelport,3,2025-01-20,False,Hired
+3ef546bb-a98d-43cd-ac63-04137b2eee90,Alexander,Horn,623-779-8359x77261,Healthcare,Night,Port Nicholasville,3,2025-01-07,False,Contacted
+82864bb0-1add-4568-a27c-46094da0e231,Colleen,Hatfield,+1-836-617-5930x17183,Retail,Flexible,Gonzalesview,2,2025-01-11,True,New
+41e257af-7431-49fc-8879-71ce587f2fc5,Rebecca,Acosta,+1-408-517-1272x035,Restaurant,Morning,Margaretton,4,2025-01-25,False,New
+a98ae888-60cf-404f-a51c-cd12d5d25a84,Jonathan,Harris,(792)537-1414,Warehouse,Evening,Frenchport,5,2025-01-08,True,Contacted
+013245f3-ed46-4554-a0a5-5fc03b539fab,Angela,Watson,947.323.7417,Retail,Morning,North Steventown,0,2025-01-01,False,Hired
+8b1e512a-62c6-4caf-9724-2b89c92f118b,Laura,Burns,843-808-3010x5153,Warehouse,Night,Nicholasmouth,4,2025-01-16,False,Interview
+ddbde14b-3fdf-4a08-af30-26d06e35ace5,Reginald,Jones,001-974-534-6618x0350,Healthcare,Night,West Robertville,4,2025-01-10,True,New
+5d594fae-7e49-47b7-91e1-952d8c3e5bc6,Kimberly,Hawkins,825-642-2837x04220,Hospitality,Night,Nicholastown,1,2025-01-02,True,Contacted
+23d13f9b-da93-428b-915a-72b5da8acf2e,Laura,Gonzalez,(943)449-5001,Retail,Night,Port Deniseshire,3,2025-01-04,True,New
+ea7b63ee-cf52-4f5a-b647-3494c064eb54,Javier,Martinez,(357)546-3166,Warehouse,Flexible,Morganbury,0,2025-01-12,False,Interview
+2547cef7-46aa-44e0-8789-3caaa9aa3dea,Jackson,Rios,(393)935-8804x6890,Warehouse,Night,New Russell,3,2025-01-22,True,Hired
+6397ef6f-fb6d-42dc-b43f-f1018e02d7b9,Mary,Douglas,+1-367-713-0849,Restaurant,Morning,Port Jessicaview,3,2025-01-18,True,New
+fa1ae2aa-b151-41ce-a396-b71801d36db1,Susan,Reed,880-234-2877,Hospitality,Morning,West Jaredport,5,2025-01-10,False,New
+63e26905-2d37-441b-8445-88ab7204fb33,Patricia,Smith,+1-708-665-3106x0255,Healthcare,Evening,Garrettland,0,2024-12-31,True,New
+3b6ffde3-ecfc-4a1a-b611-07fb6fd4afa8,Carolyn,Bailey,965-360-0605,Healthcare,Night,Courtneyshire,3,2025-01-04,False,Contacted
+b6ce8466-f309-4ef6-955c-11c4045ea342,Stephanie,Rich,+1-848-516-0608,Warehouse,Morning,North Meganville,1,2025-01-12,True,Interview
+f8fd80ba-1388-4419-867d-f4d4544559c1,Tyler,Williams,+1-515-343-0218x35739,Restaurant,Night,East Shari,1,2025-01-13,False,Contacted
+ab917d10-36ce-4121-9edb-616012729943,Jodi,Jennings,358.349.3873x26122,Retail,Flexible,Reyesburgh,5,2025-01-27,False,Hired
+69ad4366-9160-47e5-aae6-258dd3f62346,Tracy,Harper,974-855-1752x049,Healthcare,Morning,Moorefurt,3,2025-01-25,False,New
+4379c241-65bc-4d08-be55-4bc7075adb40,Darrell,Hooper,313-944-6934,Retail,Morning,Meganland,3,2025-01-12,False,Interview
+e0e50dd7-ff4d-4601-b4f3-5b98a617c2e4,Richard,Sanchez,+1-450-533-3116x72186,Restaurant,Weekends,Port Peggy,2,2025-01-20,False,New
+0be63305-f75d-4e99-bda9-1df1cc60b526,April,Wright,(846)521-1828,Hospitality,Weekends,Griffinport,1,2025-01-21,True,Contacted
+2fd6a278-875e-458c-90cc-bddccc9b6996,Mark,Thompson,916.777.8513,Restaurant,Morning,Michellefort,2,2025-01-25,False,Hired
+8183d606-b7e5-4fe2-a137-c022bd683a8e,David,Jones,217.538.3794x934,Retail,Morning,Wilsonland,2,2025-01-21,False,New
+8c114731-a9c8-406d-8534-8b2fab42bf67,Laura,Howard,330-582-3683x086,Restaurant,Evening,Randallville,1,2025-01-27,False,Interview
+508284d9-c944-49e6-8cfe-e52a13efab1c,James,Brown,001-379-928-3208,Hospitality,Night,South Tina,5,2025-01-06,True,Interview
+5e75ffeb-7945-44cc-aa1d-b57b42b13f0f,Daniel,Bowen,+1-878-667-7816x10721,Restaurant,Evening,Allenfurt,1,2025-01-22,False,Interview
+77d8199a-a39e-4e15-a8d7-e3e6f08c2138,George,Collins,349.518.2199x33402,Restaurant,Flexible,North Chelsealand,4,2025-01-13,True,New
+c77dc3f3-8c97-4e28-a736-d3acd2b04cbe,Mitchell,Ortega,576.570.6924,Restaurant,Weekends,North Justin,0,2025-01-02,False,Hired
+7204462d-7b45-4a93-a21c-7b3e9f16b075,Jeffrey,Martinez,496.967.5883x0564,Retail,Morning,Holmesburgh,2,2025-01-25,True,Hired
+e79b62e0-7458-46e8-b47e-238a33666258,Michele,Davenport,6147043021,Restaurant,Night,West Ryan,5,2025-01-20,True,Contacted
+9c70ebad-8177-48e4-9156-1d6a83ff91dc,Timothy,Barrera,564.619.5327x45396,Hospitality,Evening,Ritaside,1,2025-01-02,False,Contacted
+95ef2e15-b89e-4097-a244-efd24480a64f,Tamara,Brown,(216)431-7471x6164,Hospitality,Weekends,Juanville,3,2025-01-15,True,Contacted
+beaf2d5b-7cfd-4eb2-b056-c0ed982449ab,Tiffany,Brown,+1-769-702-1912x2397,Healthcare,Night,Debratown,0,2025-01-24,True,New
+09aabc39-6d56-4af5-b260-5a76182ba2b1,Candace,Nash,(662)673-4856x386,Hospitality,Night,Colechester,4,2025-01-07,True,Hired
+bf0c1ccf-daa6-46dc-817b-55f1877b8938,Laura,Lawrence,309-911-5986,Warehouse,Morning,Vanessafort,2,2025-01-05,True,Interview
+4ebf76cb-0b54-4980-987c-6887356b12aa,Rachel,Rodriguez,001-313-399-4135x61846,Restaurant,Weekends,Reyesberg,5,2025-01-20,True,Interview
+372ce1e0-f971-4964-a89a-81c6821811eb,Amy,Edwards,732-716-2272x82536,Hospitality,Evening,West Nathanstad,2,2025-01-18,True,New
+95164892-60df-4ced-9412-3b6f68cf277a,Paul,Smith,2956400729,Healthcare,Night,Guzmanstad,3,2025-01-26,False,New
+0f185cc0-30af-404e-bc86-d794b35fc759,Kristy,Bryan,(737)716-7297x94247,Healthcare,Evening,Port Ginatown,0,2025-01-07,False,Contacted
+49faa503-f7d8-40c4-819a-d97736e0fae2,John,Oconnell,468.710.9444x434,Healthcare,Night,Scottstad,1,2025-01-08,True,Contacted
+3ffd66b8-dce2-4c96-b611-2bf3e862383c,Christopher,Velasquez,001-571-239-5240,Restaurant,Weekends,West Julieton,0,2025-01-10,True,New
+f79224be-97f1-4a26-bf74-b3eb8b018d24,Ronald,Jordan,750.905.7634,Retail,Weekends,North Thomasstad,1,2025-01-08,False,Interview
+40fa7159-b5db-4e99-9cb4-7b2da30490d5,Melanie,Goodwin,001-673-809-4988x319,Retail,Weekends,Melvinport,3,2025-01-28,True,New
+1aea947d-e03a-4f87-aa3b-afdf70b4a26c,Laura,Simpson,882-438-4405,Retail,Morning,Brentfurt,1,2025-01-15,True,Contacted
+741f3f63-7b7c-4433-80f5-68e292b3577a,Richard,Johnson,2633078715,Warehouse,Weekends,Shawnhaven,5,2025-01-28,True,New
+2745191e-763b-4777-8c15-7870e247f4ea,David,Coleman,001-362-633-6134x93540,Hospitality,Weekends,Josephshire,0,2024-12-31,False,New
+2832f3e9-60e2-44a6-8226-9f8791104cb6,Andre,Horn,001-484-644-3331x35349,Healthcare,Weekends,Brandonburgh,1,2025-01-06,False,Hired
+9bb4a6c7-9363-4a75-925b-89ae6edffcc1,Joseph,Wright,001-592-699-1927x81856,Warehouse,Night,Lake Brandimouth,3,2025-01-09,False,Interview
+3d28e0bc-544f-4617-930f-2eab964e48fb,Vanessa,Hansen,8849999787,Warehouse,Weekends,Johnfort,5,2025-01-20,False,Interview
+426c9a15-6543-419f-accd-c80d5247657e,Maria,Miller,+1-874-711-7212x631,Restaurant,Flexible,East Kelly,4,2025-01-28,True,Hired
+46397e80-1fe2-4d52-afa0-c8d42a494930,Daniel,Harrison,936.781.5960,Healthcare,Weekends,Thompsonland,0,2025-01-22,False,Contacted
+e9327412-b5ad-44a8-af08-1bff4e894a35,Samuel,Vega,001-934-713-3067x15538,Restaurant,Night,New Michael,5,2025-01-28,True,New
+6cba5593-55bf-470d-984a-638c83d6a3b5,Scott,Brown,953-420-0938x198,Retail,Morning,West Ericshire,1,2025-01-07,False,Interview
+cd2c6f62-89f6-47b2-b6cf-a9eacc2f8430,Donna,Ramos,+1-316-748-5936x106,Healthcare,Night,Lake Shelley,0,2025-01-12,False,Contacted
+d4b91497-04d4-4b3f-a1e7-2b50afb06e0b,Troy,Doyle,001-884-581-4723x956,Hospitality,Night,North Denise,3,2025-01-11,False,Interview
+de24c0c3-6bcd-46c5-a2e2-b9b3289c2a2a,Marissa,Phillips,763.807.9319x3490,Hospitality,Flexible,West Anthonyland,5,2025-01-08,True,Interview
+b5c5bc0d-1a52-4d4c-bd45-b5bfdb9cce60,Sean,Wilson,369.345.0591x4634,Retail,Morning,Williamsfort,2,2025-01-02,True,New
+f1fae03b-039a-43dd-9f1a-82aec3324473,Christopher,Villarreal,5263996531,Hospitality,Weekends,East Alexshire,3,2025-01-16,True,Contacted
+407f501a-0cfd-4c8c-9dca-f67a97c44862,Michaela,Norman,(413)664-0990,Healthcare,Morning,East Heatherhaven,4,2025-01-18,False,Interview
+a306b01e-6110-4998-9754-1f184284060b,Christine,Sanford,286-718-9521,Retail,Evening,West Gary,2,2025-01-14,False,Hired
+33343526-a9f5-455c-ba43-271168678128,Wesley,Lynn,373.948.0837x63464,Retail,Night,North Krista,0,2025-01-15,True,Hired
+debfd0ae-2a8c-4154-be20-b161a4c4ed97,James,Todd,849.569.9501x198,Warehouse,Weekends,New Brianport,3,2025-01-07,True,Contacted
+a4cd4a01-b6da-4ae1-b5f2-1e4c3be687f1,Jesse,Thompson,(740)623-8021,Restaurant,Morning,Stevenville,5,2024-12-31,False,New
+9e8a3a72-05bd-4d89-9d26-f954db7c245b,John,Harris,830.311.4540,Healthcare,Weekends,East Susan,5,2025-01-10,True,Contacted
+e9dcb21a-7c99-419a-b3bd-9c6c55ac7d33,Rebecca,Barton,6537738416,Restaurant,Morning,Michelleport,2,2025-01-19,True,Contacted
+bf08a980-17b2-466e-824c-bce78bdc3be5,Mark,Coleman,9492276189,Hospitality,Weekends,West Crystal,4,2025-01-11,False,Interview
+f04bf181-9b01-42ac-b6bc-c052f03a0054,Alicia,Dickerson,001-649-946-1802,Restaurant,Weekends,Morenoside,4,2025-01-24,False,Hired
+c67d346e-4aaa-4508-90d9-7cfe13ab2a83,Timothy,Holt,+1-594-860-2854x9362,Healthcare,Morning,South Michael,0,2025-01-13,True,New
+7b80a229-9927-4a33-acd8-5e93ac87fd57,Elizabeth,Williams,001-447-889-6953,Restaurant,Flexible,Castillomouth,3,2025-01-02,False,Contacted
+aad9c2cd-b474-4445-b6b6-12e14ee1fbd5,Jesse,Fitzgerald,001-874-845-4348,Restaurant,Weekends,North Deanna,4,2025-01-21,True,Contacted
+eb6ad26d-1132-43cc-a1e9-1b2e3f21abe8,Joshua,Hayes,597-654-2456x6854,Warehouse,Morning,South Jacob,1,2025-01-26,True,New
+2f3d6b24-96fa-4274-ab4f-c553f6c59528,Paul,Johnson,(836)828-5612x93258,Warehouse,Flexible,East Gregory,0,2025-01-07,True,Interview
+7c83147a-5ab6-4cdd-899b-494a858110ff,John,Reeves,946.479.8885x35939,Healthcare,Flexible,East Michelle,5,2025-01-23,False,Interview
+6feb6a7f-d0c5-4471-af3a-bc961cc5234b,Claudia,Reid,890.605.1405x67164,Restaurant,Evening,New Jacqueline,5,2025-01-07,False,New
+cb19dda9-3817-4e71-85e6-1e6e741c31eb,Elizabeth,Howard,001-206-931-8193x584,Healthcare,Weekends,Port Willie,5,2025-01-26,False,Contacted
+89810c29-c2b6-4041-8653-a4f329bbf20f,Jamie,Phillips,392-459-5742x03170,Hospitality,Morning,West Joshuamouth,4,2025-01-19,True,Hired
+4c657be3-2709-472f-a8d9-d30dc02e0b29,Adam,Grimes,574-821-3885,Healthcare,Flexible,Aaronhaven,1,2025-01-27,True,Contacted
+282687af-1600-4730-a5da-69b7d7f04c78,Mary,Curry,692.272.0097x611,Retail,Evening,Port Shelly,5,2024-12-31,True,Contacted
+e60d720c-029a-4093-b8a0-6e8d16bea0b5,Jose,Lloyd,8062008999,Warehouse,Evening,New Donna,4,2025-01-16,False,Contacted
+4f34fc42-4e65-41e6-a597-263238577438,Victoria,Fox,985-735-4481,Warehouse,Flexible,Riosfort,2,2025-01-06,False,Interview
+b7590802-0620-490a-b04e-07dd1f32c837,Shawn,Rodriguez,909-766-5729x97857,Healthcare,Flexible,Loritown,4,2025-01-13,True,New
+2af8b6b3-213f-41ff-86ce-1accfd722174,James,Shea,+1-238-851-0371x00174,Restaurant,Weekends,Fernandomouth,0,2024-12-31,True,New
+cd9e2d8c-d22c-42f4-ac5c-fd463309fcce,Stacy,Mckinney,001-601-404-6661x811,Hospitality,Morning,Robertland,3,2025-01-04,True,New
+528d3175-53ef-47cf-84a8-9adf0e1c3063,Paul,Nunez,001-836-563-2464x77594,Hospitality,Weekends,Wilsonhaven,5,2025-01-22,False,New
+840cf315-870e-4dc1-b1ce-6efa26c9c36b,Norma,Villanueva,518-372-1713x0771,Healthcare,Night,Port Diana,5,2025-01-09,False,Interview
+d9ad5c0b-345a-42e6-8b3b-e4e0b826053a,Jacob,Smith,437-207-3485x241,Retail,Weekends,New Cynthiaview,5,2025-01-13,False,New
+d28d6191-2e7d-4143-af63-8e3ea06344e1,Deborah,Jacobs,+1-263-632-4118,Retail,Flexible,Sethtown,1,2025-01-01,True,New
+322d6a19-2b9b-4404-9f28-5962daed591f,Tyler,Anderson,(761)553-5178,Restaurant,Evening,Rittermouth,2,2025-01-22,True,Hired
+326827e4-d862-4475-a2b7-b39b34be1d89,Gregory,Gonzalez,958-654-6310,Hospitality,Evening,New Jon,0,2025-01-05,False,Interview
+fe58b233-4db1-47e1-99ca-3d05ad977169,Diana,Mckinney,(703)365-5176x2609,Retail,Night,South Tomton,1,2025-01-26,True,Interview
+4303d9a9-b127-482f-806e-9884db7f432b,Michelle,Cohen,001-861-781-6251x5839,Warehouse,Evening,North Ericborough,3,2025-01-17,True,Interview
+e728b9eb-0cc9-4d49-abae-17cea4181a30,Mary,Murillo,+1-842-859-0211x9614,Retail,Flexible,Jasonport,1,2025-01-21,True,Interview
+bc9f2bbe-c8f4-4387-8d0b-7b534d54c146,Michael,Francis,001-523-972-6572x24550,Retail,Evening,East Joel,2,2025-01-14,True,Hired
+c9ddb31f-6fac-4fe6-92ac-5ed93893422a,Monica,Perry,614.812.5930,Healthcare,Night,Kochland,2,2025-01-07,True,Hired
+db5a261a-ee67-4d24-b64a-03bfe2f990dd,Luke,Brewer,001-442-837-8798,Restaurant,Morning,Timothyport,1,2025-01-20,False,Hired
+a0b017eb-ca7a-4646-b156-c16af965c62f,Jason,Aguilar,9309169583,Warehouse,Morning,Mcconnellshire,2,2025-01-04,False,Interview
+b4b30100-4c0a-47e1-b2b1-e3847e143752,Luke,Melendez,504.854.1148x9003,Retail,Weekends,Luisstad,5,2025-01-01,True,Hired
+2cdde779-099e-48ca-9a08-c6ef9aaca3bf,Stephanie,Bailey,272.729.9400,Retail,Weekends,East Matthew,2,2025-01-13,False,Contacted
+22e08b2b-071c-41c5-ba8f-c767bd71f637,Harold,Velasquez,(216)380-5661,Retail,Weekends,Douglasbury,3,2025-01-26,False,New
+e08af79b-be80-43ea-aca2-9aba0519df12,Brian,Benson,(729)708-5110x888,Healthcare,Weekends,Palmertown,3,2025-01-09,False,Interview
+9f8fe44e-e456-487c-8be2-069087dd5064,Brenda,Mata,830-226-2408x01716,Hospitality,Weekends,Patricktown,5,2025-01-24,True,Hired
+f4337ee3-6729-4193-adb3-df825cb8cfd2,Hailey,Jordan,+1-569-753-5039,Warehouse,Night,South Troy,0,2025-01-02,False,Interview
+ffe6719c-3b84-4463-8270-a69584dd97e5,Jennifer,Baker,+1-292-829-6203,Healthcare,Evening,West Amanda,2,2025-01-10,True,Contacted
+3658ae91-baa1-47bc-a7a7-7f5f86c6efb5,Selena,Baker,(799)820-4117x113,Warehouse,Morning,Bradleyberg,0,2025-01-27,False,Hired
+144e11bc-b754-4c16-8ec8-22b5490e0280,Jessica,Yates,434-940-0558x234,Healthcare,Night,Port Bruceside,0,2025-01-14,True,New
+fc2e7959-3554-4c7c-899b-d85a3efbfd9f,Ruth,Maxwell,849.751.1299x3535,Warehouse,Weekends,Jacksonside,4,2025-01-01,True,Hired
+844e2aec-f9d7-4383-a896-0f9e3f009204,Megan,Pace,001-676-222-1198x500,Healthcare,Morning,South Amy,1,2025-01-11,False,New
+536de8a2-55cd-4c4a-a2b5-422400ab96e8,Katherine,Fields,(446)992-6396,Hospitality,Flexible,Robinport,0,2025-01-28,True,New
+c1bd66e0-efc6-4d9d-bf01-b715489f3dbe,Mark,Landry,582.812.7177x744,Warehouse,Evening,Cruzfurt,2,2025-01-04,True,Hired
+0a23fe7d-a454-48d7-b42b-330fd664ef18,Tiffany,White,715-681-3160x7327,Hospitality,Weekends,West Michaelburgh,2,2024-12-31,True,Interview
+e2e203fe-1d7d-4888-bbd6-6e2af99d9112,Ashley,Smith,6463330898,Warehouse,Morning,West Robertmouth,3,2025-01-13,True,Contacted
+7cf1b40f-d6cb-4356-a457-82133c2d64cd,Wendy,Greer,001-331-333-5475x8177,Healthcare,Flexible,West Michaelborough,3,2025-01-25,False,Hired
+e83665fa-6767-4630-bc83-3b0e73d89d58,Cheyenne,Russell,(550)485-4860,Hospitality,Morning,North Amanda,2,2025-01-07,False,Hired
+915853d9-c72a-4368-8b1b-eda5beb7053f,Jason,Miles,001-438-649-4119x4423,Warehouse,Weekends,Meyerschester,3,2025-01-28,False,New
+6366295c-d3c4-4175-a4cb-b512178c3052,Amanda,Carroll,(523)594-3585,Retail,Flexible,Port Shannon,1,2024-12-31,False,Hired
+43c85875-9e10-461c-ad34-5694a62096dc,Aaron,Webster,+1-788-704-7890x38555,Healthcare,Evening,Lake Traciside,0,2025-01-12,True,Contacted
+5392baee-4810-4e9d-9fe3-40f98e2303c3,Elizabeth,Brown,(713)255-5051,Hospitality,Weekends,Donaldmouth,3,2025-01-16,False,Hired
+e46c6a8b-47b0-4fc6-92a7-6299f3e7c307,Catherine,Collins,879.288.2175x803,Healthcare,Weekends,Tonyamouth,3,2025-01-26,False,Hired
+92f4080d-b649-4715-8b8b-3a84a6857dd7,Ariel,Anderson,545-408-8946x95310,Healthcare,Morning,New Melanie,2,2025-01-11,True,Contacted
+bb755c2b-21f7-4285-af9b-dc23de7819e5,Claire,Ingram,562.623.5545,Healthcare,Morning,Benjaminmouth,1,2025-01-10,False,New
+54d8e684-b612-405f-9730-45f1dee3cade,Sierra,Beasley,+1-954-357-8428x791,Hospitality,Weekends,South Kevinport,4,2025-01-14,True,Contacted
+613b78ab-576d-4afa-aa7b-5932fe5b245c,Karen,Lopez,+1-353-489-0021x5622,Restaurant,Evening,Lake Jake,2,2025-01-17,False,Hired
+51db96f3-c02b-4c52-9468-8f64c1cba9c3,Beth,Jones,(874)644-0055x21565,Healthcare,Flexible,Wongtown,1,2025-01-08,False,Hired
+08f1b487-5e99-4074-8560-06c8560a64de,Emma,Bush,(901)309-3455x5678,Restaurant,Flexible,Irwinland,1,2025-01-25,False,Hired
+101af588-ba30-4b5f-943e-c904e20ac88c,Andrea,Vasquez,001-616-528-7224x99420,Healthcare,Morning,Janiceberg,2,2025-01-16,False,New
+0cbbe654-fdb9-4c50-909f-657c7b333206,Lisa,Smith,521-235-1890x142,Healthcare,Night,Robertmouth,4,2025-01-27,False,Interview
+993beddf-dd14-4edb-8d73-895c85802ee6,Kimberly,Stewart,001-543-550-9000x884,Restaurant,Flexible,Samuelmouth,1,2025-01-28,True,Hired
+deaff519-438d-421c-9de0-fb4eb5e86391,Sarah,Mcdonald,+1-780-775-5117,Retail,Flexible,Garychester,3,2025-01-08,False,Hired
+245d7785-5f8d-4a41-a651-c648bf0454af,Lisa,Serrano,766-976-5653x5497,Retail,Flexible,Cooktown,4,2025-01-22,True,New
+a61824ea-fcd5-4003-aab6-c3b707fe0926,Gary,Gonzalez,2575582641,Restaurant,Night,Sherylport,2,2025-01-16,True,New
+227b194e-6c54-4ca6-abc2-445f717b294e,Timothy,Gill,934-519-0941x7151,Hospitality,Evening,South Denisestad,0,2025-01-25,True,Hired
+01968643-b4bd-4e9a-b04e-3ba31f7b28b5,Lisa,Gonzalez,001-863-978-4973x24885,Retail,Weekends,West Cameron,2,2025-01-01,True,Contacted
+2819f0ac-c3a2-4774-9448-9fa1382c9484,Amanda,Jordan,+1-222-409-3362,Hospitality,Weekends,Mikefort,3,2025-01-28,True,New
+50c6e265-6bb8-4a44-80f0-56a1f2e853d3,Robin,Bryan,840.920.6582x2376,Retail,Morning,Garciachester,3,2025-01-04,True,Hired
+2709717a-f4d6-4b79-9086-5487a5a3df3b,Ronald,Murphy,482-583-6379x763,Warehouse,Flexible,Patrickmouth,5,2025-01-09,False,New
+0584462e-4307-4854-bf0c-2f0ca7bf4f29,Ruth,Brown,855.687.1633,Restaurant,Morning,Austinmouth,5,2025-01-15,True,Contacted
+50999899-7b0a-4d3a-a3bf-6106ec900c56,Mark,Moore,001-278-964-5375x8220,Restaurant,Morning,Nicoleland,4,2025-01-12,False,Hired
+4cfb8f6c-c764-4f16-97f4-4a5d582aecb2,Rickey,Palmer,555.559.6735x14358,Restaurant,Morning,North Patrick,1,2024-12-31,True,Contacted
+73a2fb54-5632-466d-a263-6bf04c5126a9,Walter,Matthews,825.266.2119x3105,Retail,Weekends,Kevinville,4,2025-01-05,True,Interview
+61fc0538-7c68-475b-8a21-b4043c4164ff,Jeremy,Arnold,515-879-8841x979,Warehouse,Evening,Greenshire,0,2025-01-19,True,Hired
+1466d5bd-e687-403a-9b9e-d92a2a8a3ac2,Phillip,Butler,001-552-994-2041x9666,Restaurant,Weekends,Janicefurt,2,2025-01-21,False,Hired
+d5a3d4d5-e18e-4582-8461-d07d5eb68de7,Laura,Mckinney,(463)783-8193,Retail,Weekends,Lake Veronica,5,2025-01-08,True,Interview
+cf0ff0ef-0fa0-4422-932b-60769157bc62,Allison,Brown,384.951.1151,Hospitality,Flexible,Shanemouth,1,2025-01-29,True,Hired
+221cd0df-93de-4290-a6e8-886df1ec7720,Jacob,Harris,710-971-0049,Hospitality,Flexible,Coryland,3,2025-01-29,True,Contacted
+7a82260d-ee4b-4b05-a65b-8c7fa1e6f9f2,Ashley,Thomas,+1-783-493-1184x5233,Hospitality,Morning,Port Teresaside,0,2025-01-08,True,Hired
+ef17ce4b-5fe9-4be3-a57e-d1dba96eb6bb,Carlos,Vazquez,945-585-2581x288,Restaurant,Evening,West Jennifer,4,2025-01-29,True,Hired
+13465d59-e3ff-425e-b924-37e7c45ec0c9,Eric,Rogers,377-971-9986,Restaurant,Flexible,Alexandramouth,4,2025-01-10,True,New
+045599c4-8946-42b9-8a74-5883bfcd6413,Whitney,Bradley,001-904-622-2473x08528,Restaurant,Evening,Rebeccamouth,2,2025-01-07,False,Interview
+f3da973d-cf18-4c28-a8dc-aa5e68873598,Brian,Wilson,(425)370-3328x91385,Healthcare,Flexible,Kristopherhaven,4,2025-01-08,False,Contacted
+7f933e4b-2a82-4a4b-9739-d9d06e056bf6,Bobby,Taylor,277.910.4528x831,Restaurant,Night,Hugheston,0,2025-01-22,True,New
+d2ec6f53-f873-4c8a-a43f-dd50b99b4409,Shawn,Kidd,999.958.6350x041,Retail,Flexible,Dominguezville,3,2025-01-26,False,Hired
+ba09d780-3d99-4188-ab7e-5800b6ec304f,Richard,Powell,(392)701-0188,Retail,Evening,East Patriciaside,0,2025-01-21,False,Contacted
+0553ce1d-663f-41e8-b0da-6cce75f6365c,Gregory,Morris,904.689.9153,Restaurant,Weekends,South Zachary,3,2025-01-25,False,New
+2406bc46-a8f1-4847-8c0e-19ddbf811ec9,Richard,Davidson,621.480.9582x026,Hospitality,Weekends,Chavezville,3,2025-01-21,True,New
+e6fd2d98-d9d9-49c8-bc67-878227595088,Sandra,Casey,409.406.1056,Restaurant,Evening,New Marvinfort,1,2025-01-25,False,Interview
+1ececfde-d8cf-4268-b9c8-cfb6e1a2fdc2,Yolanda,Robles,001-225-762-5244x90556,Restaurant,Night,Gillfort,4,2025-01-08,False,Interview
+0c9835f2-857c-4925-991f-d6db8c2c6aa8,Paula,Diaz,(955)338-5718,Retail,Evening,Clarkview,2,2025-01-11,True,Interview
+65442f3e-628f-46f9-bf19-326b80d4fac9,Scott,Maldonado,816-913-3965x7562,Retail,Morning,Michaelstad,2,2025-01-01,True,New
+87a0195d-e1ef-4b84-b9c0-4cdd3fb6b9b3,Eric,Shields,(275)834-5014,Warehouse,Night,Port Amandachester,2,2025-01-25,True,Contacted
+6599f47e-dfef-461d-9e0a-2c8d92c2570a,Kathy,Campos,573.957.2973x35115,Warehouse,Weekends,Zunigaside,3,2025-01-18,False,Interview
+d878ec0e-847a-4060-a22f-55ff7e276cf0,Lisa,Perry,+1-846-220-7230x66338,Hospitality,Flexible,North Nicoleshire,0,2024-12-31,True,Hired
+06ed9a69-964c-4b5d-b29f-55b3718f1d51,Kristina,Elliott,001-545-263-0659x5536,Healthcare,Flexible,Montgomerymouth,3,2025-01-02,True,Hired
+ed2c3da6-38bd-4bc9-988d-b343c7d310eb,Linda,Becker,738.282.0789x2375,Retail,Flexible,East Rhondaview,1,2025-01-21,False,New
+9a96ee45-1efa-4662-9a15-206018bf10de,Marcus,Smith,+1-815-585-5777x3753,Hospitality,Flexible,East Sarah,1,2025-01-26,False,Hired
+62c99f1d-bdde-41c0-bed3-a78f778fac95,Amber,Brown,543.576.9830,Hospitality,Evening,West Jose,2,2025-01-29,False,Interview
+6416c0b2-8910-49cb-8f6e-71ee253f09bf,Zachary,Wright,+1-384-817-2807x7514,Hospitality,Weekends,Allenside,0,2025-01-15,True,New
+7f8ce03a-5957-4b53-9ddc-01b87ba2958d,Jonathan,Arnold,914.316.5767x406,Retail,Morning,West Matthewhaven,5,2025-01-07,True,New
+e647dc87-7270-4fc7-8636-0fb823217c30,Vicki,Roman,410.805.2871x10861,Restaurant,Night,Cortezchester,5,2025-01-24,False,Contacted
+386bc19f-5bcc-4d39-989c-7fe4a3a0ee21,Nicholas,Hall,463.218.4764x845,Warehouse,Morning,North Markmouth,0,2025-01-22,True,New
+aa696c32-7b33-443f-9c79-efe630329889,Paul,Weeks,410.280.2669x9865,Healthcare,Weekends,South Kevin,4,2025-01-28,True,Hired
+582a8d66-5bb6-42ce-b9c6-10c2ed2aea46,Jonathan,Watkins,991.483.0602,Restaurant,Morning,Joanntown,2,2025-01-04,True,Hired
+e8d6e56f-bedf-41a0-a63c-a11b09c76dd8,Kelly,Taylor,001-203-446-4017x8123,Retail,Morning,Douglasside,2,2025-01-28,False,Interview
+11c2b886-d0d1-491e-80c4-93cd27993e76,Patricia,Malone,397-382-6758,Hospitality,Night,North Carlborough,5,2025-01-29,False,Hired
+aa807e1c-6674-4f0c-a452-2cf85dbeb809,Steven,Montes,001-787-754-6352,Healthcare,Evening,Bellshire,3,2025-01-22,True,New
+66658860-c231-4af1-8d2d-7dd594bba8be,Jeffrey,Stevenson,(291)797-4931x02110,Retail,Weekends,North Jasmineville,3,2025-01-24,False,Contacted
+d3e33388-59c3-436e-b372-74d1e7a6ad06,Kelly,Harper,+1-358-861-3446x112,Warehouse,Weekends,Port Tammy,2,2025-01-16,True,Contacted
+2aa7c54e-8d7d-4845-84a1-d3f80ece3db5,Gregory,Garrison,997-336-7560x1382,Hospitality,Night,North Michelleview,4,2025-01-09,True,New
+f35271e2-746f-4a01-a6f3-f1c94bc772e4,Paul,Bishop,(672)792-7152,Warehouse,Flexible,East Sarah,5,2025-01-28,True,New
+c7f0a03f-bcaa-4170-9f1b-308a053ea3b4,David,Silva,7247906535,Hospitality,Weekends,Kevinhaven,2,2025-01-10,True,Contacted
+f9d72d75-c9c2-4506-a6c7-76a3e81a9d54,Randall,Scott,598.598.3255,Healthcare,Morning,Port Faithmouth,5,2025-01-01,False,Contacted
+48bb4fee-1c34-4496-beb7-608f58b45741,Christopher,Mcdonald,620.508.0508,Hospitality,Morning,South Desireeborough,3,2025-01-01,False,Contacted
+cd27a2cf-b277-4a6d-9961-e200a8258ae3,Brenda,Mendez,001-426-423-1316x96946,Healthcare,Morning,Maryfort,5,2025-01-21,True,New
+243fe703-e86a-4d36-924d-f5ab143165b9,Brian,Little,738-825-4034x14546,Hospitality,Evening,Sullivanfurt,2,2025-01-26,True,Contacted
+1ba80c6c-475e-4dc1-a335-c69f119d66ad,John,Gray,264-948-5301,Restaurant,Flexible,Tabithaberg,0,2025-01-06,True,Interview
+5e642775-f34b-43ed-94eb-1490176d58a4,Ryan,Sanders,001-677-517-0536,Restaurant,Night,North Scottfort,1,2025-01-15,False,New
+58ced65e-7cd3-4564-bdb5-559107bc003f,Debra,Sutton,471-841-7884,Warehouse,Evening,West Kara,4,2025-01-28,False,Interview
+fef5895d-7c33-48d0-9921-ef201ca8cd12,Matthew,Tate,924-783-2216x61049,Restaurant,Morning,Chavezshire,1,2025-01-23,False,Hired
+c0fbd1d5-5ab3-4d2c-b093-6f1639a5fde9,Johnny,Bennett,001-687-960-9784,Hospitality,Weekends,East Johnport,0,2025-01-17,False,New
+0788a539-752e-46b0-af58-1f69fe5c8c98,Christian,Davis,(462)849-0679,Retail,Night,Lake Eugene,3,2025-01-15,False,Contacted
+1b1e3cab-5c2f-49d3-b48c-6b0093955250,Janet,Doyle,6674718236,Restaurant,Weekends,East Amyside,4,2025-01-11,True,Hired
+22b24d06-458d-4421-8d8c-986dd0c268ea,Ryan,Martin,(936)946-1727,Hospitality,Evening,Martinstad,2,2025-01-28,False,New
+0808e22d-fcb4-4c93-a38c-e3de15df7348,Sarah,Blackwell,001-741-571-3713,Warehouse,Morning,Rodriguezstad,3,2025-01-06,False,Contacted
+47645a12-3d18-436d-9f6d-b38d903e5dab,Elijah,Mcpherson,001-740-886-7775x2880,Restaurant,Night,Martinburgh,5,2025-01-17,True,Hired
+0b855190-9997-4053-bdab-2d712ad64853,Jessica,Rocha,278-872-7418,Hospitality,Morning,Bushview,3,2025-01-29,False,New
+c7c62e50-ba16-46c6-8a2f-a76cd58111d3,Christina,Wilson,491-322-8434x90365,Restaurant,Weekends,Dennismouth,2,2025-01-15,True,New
+67692031-1a0b-4c73-8331-cf4207f328ca,Helen,Ross,964.269.0469,Hospitality,Night,Drakebury,5,2025-01-24,False,Interview
+e83932c8-0713-49ce-896b-2f56c2ee159b,Lisa,Dyer,(424)334-4903,Restaurant,Flexible,Figueroaside,5,2025-01-23,False,Contacted
+c2cabc28-f123-4290-a4b4-6f093faf630f,Jessica,Edwards,(333)633-5273x59825,Warehouse,Weekends,New Monica,5,2025-01-24,True,Hired
+7791517a-8562-4128-a0e7-f9b861184f3d,Daniel,Humphrey,001-410-814-9154,Restaurant,Night,Port Paulbury,4,2025-01-10,True,Contacted
+41caff9e-e8e0-4d44-9799-c34192cb9592,Bianca,Singleton,489.968.3050,Restaurant,Evening,Gibsonborough,0,2025-01-21,False,Hired
+c4444a76-589d-4c0b-9c80-f0492321bad8,Kenneth,Jenkins,570-813-7249x7475,Hospitality,Morning,Port Jo,5,2025-01-07,True,Hired
+6c34f340-3846-49af-ac82-7ce6c282a64a,Brian,Peterson,204-235-1211x97026,Retail,Morning,Nicholasside,1,2025-01-04,True,Hired
+de87dc30-8347-4d22-8b79-54d70bb5fab1,Spencer,Mcgee,001-986-746-3201x50470,Warehouse,Flexible,South Oscarstad,5,2025-01-26,True,Contacted
+f0fcf57c-f41a-4f2c-821f-49b4e9755aa3,Thomas,Patel,001-355-896-4932,Warehouse,Flexible,Lake Jasonshire,2,2025-01-23,False,Interview
+28071159-645c-47d6-ae0d-eeb04267fa5b,Zachary,Miller,355-247-8619x92126,Warehouse,Night,Barrmouth,5,2025-01-28,False,New
+1d20b77e-7ace-435a-8862-0a41af274e3e,Alexander,Bell,844.498.7403x8923,Hospitality,Night,New Victoria,5,2025-01-20,True,Hired
+5536aeb3-e680-4331-975a-0502fb90ce37,Ronald,Herrera,(520)353-6662x1962,Healthcare,Night,Christophershire,3,2025-01-25,False,Hired
+be255d6f-b36a-4c9a-94f1-6362dddad2a9,Geoffrey,Landry,714.608.9993,Retail,Flexible,New Christopherland,2,2025-01-26,True,Contacted
+cc6f817f-5372-4d66-b80f-0484edaeae46,Dawn,Cross,+1-452-230-0510x0280,Healthcare,Night,North Curtisport,0,2025-01-13,True,Interview
+d79a7318-7ce5-4ff3-9ff9-6175d3aacb61,Sean,Parks,+1-764-780-5478x3216,Healthcare,Evening,Lake Williamport,3,2025-01-24,False,Interview
+c5c5c05c-422e-43bb-a5dd-155ff925609b,Michelle,Massey,963.326.5881,Hospitality,Night,Rodgersberg,3,2025-01-28,False,New
+3f503aa9-4dde-429c-bd8f-c51a45834dd8,Jackie,Hansen,(435)566-6884x31792,Hospitality,Weekends,South Elizabeth,3,2025-01-08,True,Hired
+4255251c-802d-4ed5-a4c2-43f686df2e48,Samuel,Miller,(752)901-9470x8244,Restaurant,Evening,Brendafurt,5,2025-01-08,True,New
+dd7272c1-6c6b-40c2-a831-af3304e378db,Michael,Jones,+1-464-301-1377x798,Warehouse,Evening,West Lisamouth,5,2024-12-31,False,Interview
+ba2fcf18-9a0f-4580-a5e2-a297f3680d8c,Matthew,Flores,(579)500-8300,Restaurant,Night,New Manuelberg,5,2025-01-23,True,New
+8fea7682-6490-4d0f-8bf7-0f46e7ad37ff,Richard,Davis,230-738-3598x05444,Restaurant,Evening,Smithtown,4,2025-01-29,True,Hired
+f55453ca-8db1-41f9-8a92-fa4b56f2df58,Brittany,Evans,+1-396-356-2805x49461,Hospitality,Night,Roachmouth,5,2025-01-18,True,Interview
+66119dbe-7086-4f40-9a45-d5cd68be15d5,Jacqueline,Powers,001-939-883-8435x158,Hospitality,Weekends,South Leslieland,4,2025-01-16,True,New
+5007f79a-b021-4986-a9ab-c18293b339da,Edward,Miller,(588)579-8494x81641,Hospitality,Evening,East William,2,2025-01-22,False,New
+3795d952-2bd2-46a6-b5a8-570632d6aa46,Meghan,Miller,(906)733-4836,Healthcare,Morning,West Daniel,0,2024-12-31,True,Contacted
+670d6985-c901-45e8-b72f-8abdb8f22773,Robin,Williams,(718)464-0680,Retail,Weekends,Martinbury,3,2025-01-25,True,New
+94c5117a-601a-4de3-b635-39ba32d2192f,Wayne,Schultz,+1-953-218-4419x30568,Healthcare,Morning,Raymondtown,5,2025-01-04,False,New
+adbdc397-f942-407d-a72b-690527ba5460,Heather,Wilson,001-477-830-7289,Healthcare,Weekends,Moyerside,2,2025-01-22,False,Contacted
+7d305781-016e-4ad4-8998-85fa0f856547,Melissa,Johnson,328-277-0550,Retail,Night,Zacharymouth,3,2025-01-16,False,Hired
+ff5a67ae-9567-4544-8863-ebb0caaf6442,Andrew,Moss,486.228.9803x38481,Retail,Evening,South Daniel,1,2025-01-06,True,New
+0e077330-49bc-40e2-8aff-0ad9fa792a6c,Penny,Rodriguez,(493)993-7700x8682,Hospitality,Night,Mikaylamouth,1,2025-01-26,False,Interview
+652c2a73-fdc9-4f88-ab42-edc5e621cc7c,Kristy,Beck,001-872-994-4233x655,Restaurant,Flexible,North Courtneyside,4,2025-01-01,True,Hired
+0c1577c8-ba05-4ff3-8159-d529444980cd,Michelle,Gray,319.987.9227x502,Restaurant,Weekends,Lindaton,3,2025-01-01,True,Interview
+32f2e532-8350-41f0-9861-9dfd4705291b,Jody,Maldonado,(257)504-6747x1936,Retail,Morning,Rodriguezland,1,2025-01-01,True,Contacted
+4d30f471-8bc5-4c0c-a4ee-156f0b434af1,Deborah,Phillips,+1-490-922-4438,Hospitality,Morning,Port Henrymouth,2,2025-01-17,False,Hired
+c6de9f2d-af1e-4aad-8918-eebeed1cd7bb,Scott,Kelley,3209928003,Retail,Weekends,Dunnmouth,4,2025-01-02,False,Hired
+f0465534-65a0-425d-971b-ddc232f45dc0,Michael,Lynn,239.439.2420x596,Healthcare,Night,Brownfort,5,2025-01-13,False,Contacted
+bd3515a6-0503-4412-a0e5-e6c2d377d7da,Taylor,Hammond,250.322.7699x5683,Retail,Weekends,Michelleburgh,5,2025-01-02,True,New
+17b17e16-4ed7-438d-a0d6-ce453d27e315,Julie,Rodriguez,675.618.4975,Hospitality,Evening,Zacharychester,4,2025-01-26,False,Hired
+70d98123-3561-4b1f-b952-8efebe4684ce,Jennifer,Wilson,001-383-255-2640x8006,Warehouse,Flexible,Sarahside,0,2025-01-20,False,Hired
+c5f8eefe-f9ad-4d2c-9a3f-ff4dfaba8eb8,Victoria,Blackburn,001-538-839-7483x38250,Retail,Weekends,Taylorville,3,2024-12-31,True,Interview
+7f885a44-c78b-40da-8493-454abd4b6ccb,Theodore,Clark,5502268308,Restaurant,Morning,Port Christina,1,2025-01-26,True,New
+39ef30eb-b441-45f3-acd5-68cb37f273b8,Teresa,Strong,750-702-6085,Retail,Flexible,Wandaside,0,2025-01-14,False,New
+7799b0ee-dd39-48f9-bc79-fa579fafae7e,Stanley,Vasquez,773.740.3052x24454,Hospitality,Night,Briannafurt,2,2025-01-06,False,Interview
+f4b354b3-97e0-4ccf-acf8-6fd32793be3e,Bradley,Yoder,826-651-6525x26727,Hospitality,Weekends,Gillstad,3,2025-01-20,False,Interview
+57d6c362-5df0-42e6-9d5b-684c8bffcb0d,Yolanda,Bishop,979-901-3764x76228,Warehouse,Evening,Barryhaven,2,2025-01-14,False,Hired
+e8cc7350-38bb-427d-a7e8-f7ba34984ce8,David,Andrews,001-975-727-6874x02337,Restaurant,Night,Smithbury,1,2025-01-04,False,New
+3a74530e-138a-45ee-8208-a27c4848e47f,Keith,Martin,+1-896-614-6692x23556,Retail,Evening,Port Georgeville,4,2025-01-21,False,New
+2e567096-f940-4e2e-a920-d0a337b3aa3d,Tami,Barton,(204)247-2183x260,Warehouse,Night,Camachoton,5,2025-01-21,False,Interview
+8ed405c6-29cf-412f-90c0-76b5e354602e,Alexander,Roman,+1-373-783-2610,Retail,Morning,Michelleburgh,0,2025-01-18,False,Hired
+060da06a-0ed0-46d0-9fcf-97bdf611d92c,Suzanne,Wyatt,955.481.5922,Restaurant,Morning,Lisamouth,0,2025-01-29,False,Contacted
+5c2b9959-48a3-49fd-b8a2-d2ba9918296e,Daniel,Sanchez,767-985-0582,Warehouse,Night,South Michael,0,2025-01-28,True,Interview
+0bab2e19-6785-4d2e-9f24-92c7c42d022a,Bradley,Smith,001-255-993-6998x43514,Retail,Morning,Lambhaven,4,2025-01-01,False,Contacted
+3fe2d727-4e43-4f65-b33d-0adf6daae95a,Renee,Osborne,(555)371-7027x0971,Warehouse,Flexible,Cherylburgh,1,2025-01-15,True,New
+8e158545-f68a-4702-b5b6-199a10195e7c,Helen,Jones,001-928-382-7622x8410,Warehouse,Weekends,Michaelport,1,2025-01-13,True,New
+1d163b92-4f2e-458c-a3d3-d091875b9072,Michael,Perez,371.630.2079x266,Healthcare,Evening,West James,3,2025-01-04,False,Contacted
+59d8be2f-b39e-45dd-85e6-e7ce39c3c05a,Mary,Baker,458.926.0097x0676,Healthcare,Weekends,Reynoldsmouth,4,2025-01-08,True,Interview
+cf7d4ee7-814c-4608-89db-2f58a330ec21,Rebecca,James,536.712.7456x4799,Healthcare,Morning,New Anthony,0,2025-01-23,False,New
+126f75a8-64b9-476d-bfa3-0b5e4ecfda88,Mario,Frank,001-507-610-5759x67085,Retail,Flexible,East Robertfort,1,2025-01-11,True,Hired
+440a42d4-7cd6-4101-9832-fbf4c81dbabd,Hannah,Snyder,+1-719-382-3047x8636,Retail,Evening,South Vincent,3,2025-01-26,True,Hired
+cf7959b3-3380-4db2-9587-f897d9227d97,Erin,Hanson,342.555.6879x84531,Healthcare,Night,Port Dorothy,2,2024-12-31,False,Interview
+1c0b860e-fb22-4a9f-b2aa-ab8bc0356e2c,Dawn,Bates,871-433-8119,Retail,Morning,South Robert,0,2025-01-16,True,New
+25dbad67-1ce7-4b3e-8e76-05527484d230,Karen,Morales,+1-602-422-3551x3602,Healthcare,Flexible,Port Ambertown,2,2025-01-02,False,Contacted
+f3c7809b-7092-4828-a733-cb534cdb47be,Gilbert,Best,620.563.4265,Warehouse,Night,Cookport,5,2025-01-14,True,Hired
+ca50abb7-382f-4d9b-88c8-61cbdd18c17f,Lisa,Christensen,001-755-924-1911x02707,Warehouse,Morning,East Nicole,3,2025-01-23,True,New
+ddd943ff-2020-46f2-924f-0e47bc2c2213,Wyatt,Cain,+1-348-230-9669x55197,Restaurant,Night,Chelseaberg,1,2025-01-11,False,Contacted
+e82ac16b-3df3-4690-aa6e-950732c1b999,Gary,Anderson,+1-414-583-2014x70847,Hospitality,Flexible,West Benjamin,1,2025-01-11,False,Hired
+56cd93f4-0f79-4454-ab58-0f10f578a2d8,Dawn,Byrd,(762)926-5879x63864,Retail,Flexible,North Sarah,2,2025-01-12,True,New
+a8867df8-df70-4fb0-a50b-a2fe328dcf8c,Matthew,Moss,001-451-532-2374x27945,Warehouse,Weekends,North Jessicafort,5,2025-01-06,True,Hired
+eb6cd163-d941-4100-a808-79064d5a84d1,Marco,Alvarado,001-990-825-6196x0499,Warehouse,Weekends,Garciaport,2,2025-01-20,True,Contacted

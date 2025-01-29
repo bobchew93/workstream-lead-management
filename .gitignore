@@ -1,0 +1,12 @@
+# Create .gitignore file
+New-Item .gitignore -ItemType File
+
+# Add contents to .gitignore
+Add-Content .gitignore "__pycache__/"
+Add-Content .gitignore "*.py[cod]"
+Add-Content .gitignore "*$py.class"
+Add-Content .gitignore ".env"
+Add-Content .gitignore "venv/"
+Add-Content .gitignore ".DS_Store"
+Add-Content .gitignore "*.csv"
+Add-Content .gitignore "hubspot.config.yml"
