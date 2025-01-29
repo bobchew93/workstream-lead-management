@@ -5,12 +5,18 @@ A HubSpot integration solution for managing job applicant data, demonstrating ma
 ## Features
 
 - 🔄 **HubSpot CRM Integration**: Automated contact syncing with custom properties for recruitment
-- 📊 **Custom Fields Implementation**: 
+
+- 📊 **Custom Fields Implementation**:
   - Preferred Job
   - Availability
-  - Experience Years
+  - Years of Experience
+  - Last Contacted
+  - Text Opt-In
   - Application Status
+  - Location
+
 - 📱 **Contact Management**: Handles 1000+ contact records with recruitment-specific data
+
 - 🔍 **Lead Tracking**: Monitors application status and candidate progression
 
 ## Technical Implementation
