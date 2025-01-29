@@ -22,7 +22,7 @@ A HubSpot integration solution for managing job applicant data, demonstrating ma
 
 ## Results & Impact
 
-- Successfully synced 1,002 contacts to HubSpot CRM
+- Successfully synced 1,000 contacts to HubSpot CRM
 - 100% data integrity maintained during transfer
 - Custom recruitment properties implemented and populated
 - Scalable solution handling 1000+ records efficiently
