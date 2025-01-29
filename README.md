@@ -20,6 +20,13 @@ A HubSpot integration solution for managing job applicant data, demonstrating ma
 - **Batch Contact Processing** with error handling
 - **Data Validation** and cleaning procedures
 
+## Results & Impact
+
+- Successfully synced 1,002 contacts to HubSpot CRM
+- 100% data integrity maintained during transfer
+- Custom recruitment properties implemented and populated
+- Scalable solution handling 1000+ records efficiently
+
 ## Project Structure
 
 ```bash
