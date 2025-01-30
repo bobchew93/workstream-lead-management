@@ -19,6 +19,9 @@ A HubSpot integration solution for managing job applicant data, demonstrating ma
 
 - 🔍 **Lead Tracking**: Monitors application status and candidate progression
 
+## Disclaimer
+This project is for demonstration purposes only and is not affiliated with or endorsed by Workstream. All data used in this project is mock or generated data, created specifically for this case study. Any references to Workstream are purely for hypothetical use to showcase marketing technology skills.
+
 ## Technical Implementation
 
 - **HubSpot API Integration** using Python
