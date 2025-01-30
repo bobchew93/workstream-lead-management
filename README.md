@@ -50,18 +50,26 @@ A HubSpot integration solution for managing job applicant data, demonstrating ma
 ## Automation & Workflows
 
 ### Candidate Prioritization Automation
-- Created automated workflow for experienced warehouse candidates
+- Created automated workflow for experienced warehouse candidates.
 - **Trigger Criteria**:
   - Preferred Job: Warehouse
-  - Years of Experience: ≥ 2 years
+  - Years of Experience: ≥ 2 years.
 - **Automated Action**:
-  - Sets Candidate Priority to "High Priority"
-  - Currently affecting 30 qualified candidates
+  - Sets Candidate Priority to "High Priority."
+  - Currently affecting 30 qualified candidates.
+
+### Results Display
+- Successfully prioritized contacts are tagged as "High Priority."
+- Below is a sample contact record showing:
+  - Candidate Priority: High Priority (automation result).
+  - Additional details such as Lead Status, Legal Basis for Processing, and Contact Owner.
+
+![Dawn Byrd Contact Record](images/dawn_byrd_contact_record.png)
 
 ### Implementation Highlights
-- Successfully handled property type limitations
-- Created strategic workaround with new priority property
-- Demonstrated problem-solving in MarTech implementation
+- Successfully handled property type limitations.
+- Created strategic workaround with new priority property.
+- Demonstrated problem-solving in MarTech implementation.
 
 ## Results & Impact
 
@@ -81,3 +89,5 @@ A HubSpot integration solution for managing job applicant data, demonstrating ma
 ├── hubspot_sync.py          # HubSpot integration script
 ├── workstream_contacts.csv   # Mock contact data
 └── .env                     # Environment configuration
+
+[def]: images/dawn_byrd_contact_record.png
